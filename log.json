@@ -1,5 +1,55 @@
 [
- {"date":"2026-10-21","listing_id":4600359551,"title_hint":"Shared Care Planner kit - sibling caregiving expense & care spreadsheet + printables","price":8.99,"niche":"caregiving"},
- {"date":"2026-10-21","listing_id":4600358707,"title_hint":"Printable caregiver binder, 14 pages, aging parent","price":4.99,"niche":"caregiving"},
- {"date":"2026-10-21","listing_id":4600357831,"title_hint":"Emergency information + medication list + weekly medication chart printable","price":3.99,"niche":"caregiving"}
+ {
+  "date": "2026-10-21",
+  "listing_id": 4600359551,
+  "title_hint": "Shared Care Planner kit - sibling caregiving expense & care spreadsheet + printables",
+  "price": 8.99,
+  "niche": "caregiving"
+ },
+ {
+  "date": "2026-10-21",
+  "listing_id": 4600358707,
+  "title_hint": "Printable caregiver binder, 14 pages, aging parent",
+  "price": 4.99,
+  "niche": "caregiving"
+ },
+ {
+  "date": "2026-10-21",
+  "listing_id": 4600357831,
+  "title_hint": "Emergency information + medication list + weekly medication chart printable",
+  "price": 3.99,
+  "niche": "caregiving"
+ },
+ {
+  "date": "2026-10-22",
+  "platform": "gumroad",
+  "id": "S1y27z19e6cK9c7IHeKHKg==",
+  "short_url": "https://korichii.gumroad.com/l/nbvwhe",
+  "price": 11.99,
+  "title_hint": "Shared Care Planner kit"
+ },
+ {
+  "date": "2026-10-22",
+  "platform": "gumroad",
+  "id": "vslmM8iE28v112HqUQa63A==",
+  "short_url": "https://korichii.gumroad.com/l/pynia",
+  "price": 6.99,
+  "title_hint": "Printable Caregiver Binder 14 pages"
+ },
+ {
+  "date": "2026-10-22",
+  "platform": "gumroad",
+  "id": "XwmqfBwBI-tKmcbaKSydDg==",
+  "short_url": "https://korichii.gumroad.com/l/ebtqa",
+  "price": 4.99,
+  "title_hint": "Emergency info + medication list + weekly chart"
+ },
+ {
+  "date": "2026-10-22",
+  "platform": "gumroad",
+  "id": "78D6y7LXxnnjIS_DKC-1iA==",
+  "short_url": "https://korichii.gumroad.com/l/wdwynv",
+  "price": 0,
+  "title_hint": "FREE weekly medication chart (lead magnet)"
+ }
 ]

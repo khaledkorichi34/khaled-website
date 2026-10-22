@@ -1,4 +1,4 @@
-# Daily Etsy publishing — 3 digital products per day (shop DElisaES)
+# Daily publishing — 3 digital products per day on Etsy (shop DElisaES) AND Gumroad (korichii.gumroad.com)
 
 Owner: Khaled. Report to him in Arabic at the end. Shop id 57330467, USD, Spain-based seller.
 
@@ -28,10 +28,22 @@ Owner: Khaled. Report to him in Arabic at the end. Shop id 57330467, USD, Spain-
 7. Verify: `s9902217_etsy_api_get` url `/listings/<id>?includes=Images` → state active, image count, then `/listings/<id>/files` (via shop path `/shops/57330467/listings/<id>/files`).
 8. Append the 3 entries to `log.json` (date, listing_id, title, price, niche) and push this branch (`etsy-daily`).
 
+## Gumroad (same 3 products, approved by Khaled Oct 22 2026)
+After the Etsy listing is live, publish the same product on Gumroad through two Make scenarios (run with `scenarios_run`, responsive true):
+- **10020443 "Gumroad - upload file from URL"** — data `{file_url, file_name}` (file_url = the raw.githubusercontent URL from publish_media.sh). Returns `file_url` (an s3.amazonaws.com/gumroad/attachments/... URL). Upload each buyer file separately; never reuse one upload for two products.
+- **10020434 "Gumroad API"** — data `{method, path, body}` where body is a JSON string. Base URL https://api.gumroad.com is added for you.
+  1. Create draft: `POST /v2/products` body `{"name","price" (cents),"description" (HTML),"custom_summary","tags" (array),"taxonomy_id":85,"draft":true,"files":[{"url":<file_url>,"display_name":...,"position":0}]}` → read `product.id` and `short_url`.
+  2. Covers: `POST /v2/products/<id>/covers` body `{"url":<raw image URL>}` — first call = main cover; add 1–2 more.
+  3. Check the response: files have sizes, covers present, price right. Then publish: `PUT /v2/products/<id>/enable`.
+- Gumroad price = Etsy price + $1–3 (Gumroad keeps 10% + fees); keep it a real price, no fake discount. Same AI-disclosure line in the description.
+- taxonomy 85 = Self Improvement > Productivity (use 164 Personal Finance for budget/money planners).
+- If Gumroad returns 401 the token in Make connection "Gumroad API token" is invalid → stop Gumroad part and tell Khaled to regenerate it (Gumroad Settings > Advanced > Applications > Generate access token; Make connection uses query param `access_token`).
+- Log each Gumroad product in log.json too (`"platform":"gumroad"`, id, short_url, price).
+
 ## Limits
 - Don't delete listings, spend money (no Etsy Ads, no paid tools) or change shop settings.
 - Never paste API keys. If an Etsy/Make connection breaks, stop and tell Khaled what to reconnect.
 - If something fails mid-way, leave the listing as a draft and report it — don't publish a listing missing images or files.
 
 ## Report (Arabic, short)
-Three lines: title (English) – price – listing id/link `https://www.etsy.com/listing/<id>`; anything that failed; anything that needs Khaled.
+For each product: English title – Etsy price + link `https://www.etsy.com/listing/<id>` – Gumroad price + short_url; anything that failed; anything that needs Khaled.
