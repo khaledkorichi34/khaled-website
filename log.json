@@ -276,5 +276,50 @@
     "short_url": "https://korichii.gumroad.com/l/dlokyc",
     "price": 7.99,
     "title_hint": "2027 Grocery Price Book & Food Budget Tracker"
+  },
+  {
+    "date": "2026-10-28",
+    "listing_id": 4604768198,
+    "title_hint": "Hiring an In-Home Caregiver Kit - 15 printable pages (care needs, schedule & cost, agency vs independent, agency questions, job description, phone screen, interview questions & scorecard, reference check, trial shift, expectations, first week, 30-day review)",
+    "price": 5.99,
+    "niche": "caregiving"
+  },
+  {
+    "date": "2026-10-28",
+    "listing_id": 4604768244,
+    "title_hint": "Long-Distance Caregiver Planner - 13 printable pages (care snapshot, local support team, who helps with what, weekly call guide & log, changes log, monthly remote admin, visit trip planner, emergency plan, expenses, family update)",
+    "price": 5.99,
+    "niche": "caregiving"
+  },
+  {
+    "date": "2026-10-28",
+    "listing_id": 4604768298,
+    "title_hint": "2027 Monthly Budget Spreadsheet, zero-based (12 monthly tabs, transactions, budget vs actual, dashboard + chart, blank + sample) + 4 printables",
+    "price": 6.99,
+    "niche": "newyear-q1"
+  },
+  {
+    "date": "2026-10-28",
+    "platform": "gumroad",
+    "id": "QFhnX0lx7RyJSrS4v--r-A==",
+    "short_url": "https://korichii.gumroad.com/l/qalrjb",
+    "price": 7.99,
+    "title_hint": "Hiring an In-Home Caregiver Kit"
+  },
+  {
+    "date": "2026-10-28",
+    "platform": "gumroad",
+    "id": "3Ninglw5TuIOlcF1akOpUg==",
+    "short_url": "https://korichii.gumroad.com/l/flbdc",
+    "price": 7.99,
+    "title_hint": "Long-Distance Caregiver Planner"
+  },
+  {
+    "date": "2026-10-28",
+    "platform": "gumroad",
+    "id": "FP5G2C2FwJ0yTXLp-zM-Vw==",
+    "short_url": "https://korichii.gumroad.com/l/tdgyeb",
+    "price": 8.99,
+    "title_hint": "2027 Monthly Budget Spreadsheet (Zero-Based)"
   }
 ]
