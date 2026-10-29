@@ -1,325 +1,370 @@
 [
-  {
-    "date": "2026-10-21",
-    "listing_id": 4600359551,
-    "title_hint": "Shared Care Planner kit - sibling caregiving expense & care spreadsheet + printables",
-    "price": 8.99,
-    "niche": "caregiving"
-  },
-  {
-    "date": "2026-10-21",
-    "listing_id": 4600358707,
-    "title_hint": "Printable caregiver binder, 14 pages, aging parent",
-    "price": 4.99,
-    "niche": "caregiving"
-  },
-  {
-    "date": "2026-10-21",
-    "listing_id": 4600357831,
-    "title_hint": "Emergency information + medication list + weekly medication chart printable",
-    "price": 3.99,
-    "niche": "caregiving"
-  },
-  {
-    "date": "2026-10-22",
-    "platform": "gumroad",
-    "id": "S1y27z19e6cK9c7IHeKHKg==",
-    "short_url": "https://korichii.gumroad.com/l/nbvwhe",
-    "price": 11.99,
-    "title_hint": "Shared Care Planner kit"
-  },
-  {
-    "date": "2026-10-22",
-    "platform": "gumroad",
-    "id": "vslmM8iE28v112HqUQa63A==",
-    "short_url": "https://korichii.gumroad.com/l/pynia",
-    "price": 6.99,
-    "title_hint": "Printable Caregiver Binder 14 pages"
-  },
-  {
-    "date": "2026-10-22",
-    "platform": "gumroad",
-    "id": "XwmqfBwBI-tKmcbaKSydDg==",
-    "short_url": "https://korichii.gumroad.com/l/ebtqa",
-    "price": 4.99,
-    "title_hint": "Emergency info + medication list + weekly chart"
-  },
-  {
-    "date": "2026-10-22",
-    "platform": "gumroad",
-    "id": "78D6y7LXxnnjIS_DKC-1iA==",
-    "short_url": "https://korichii.gumroad.com/l/wdwynv",
-    "price": 0,
-    "title_hint": "FREE weekly medication chart (lead magnet)"
-  },
-  {
-    "date": "2026-10-22",
-    "listing_id": 4600801522,
-    "title_hint": "Moving a Parent to Assisted Living Planner - 12 printable pages (tour checklist, cost comparison, downsizing)",
-    "price": 5.99,
-    "niche": "caregiving"
-  },
-  {
-    "date": "2026-10-22",
-    "listing_id": 4600801808,
-    "title_hint": "Caregiver Timesheet & Pay Tracker spreadsheet (hours, overtime, mileage, payments) + printables",
-    "price": 6.99,
-    "niche": "caregiving"
-  },
-  {
-    "date": "2026-10-22",
-    "listing_id": 4600802120,
-    "title_hint": "2027 Debt Payoff Planner spreadsheet (snowball vs avalanche) + printable trackers",
-    "price": 6.99,
-    "niche": "newyear-q1"
-  },
-  {
-    "date": "2026-10-22",
-    "platform": "gumroad",
-    "id": "aVpGXsgBuhnZk6E4diMY8Q==",
-    "short_url": "https://korichii.gumroad.com/l/wwliz",
-    "price": 7.99,
-    "title_hint": "Moving a Parent to Assisted Living Planner"
-  },
-  {
-    "date": "2026-10-22",
-    "platform": "gumroad",
-    "id": "EddEGbM5ElrsDGmXLfcw8g==",
-    "short_url": "https://korichii.gumroad.com/l/xhlmtf",
-    "price": 8.99,
-    "title_hint": "Caregiver Timesheet & Pay Tracker"
-  },
-  {
-    "date": "2026-10-22",
-    "platform": "gumroad",
-    "id": "40CojCPitQy6rrchL3E5Pw==",
-    "short_url": "https://korichii.gumroad.com/l/gsevn",
-    "price": 8.99,
-    "title_hint": "2027 Debt Payoff Planner"
-  },
-  {
-    "date": "2026-10-23",
-    "listing_id": 4601488653,
-    "title_hint": "Hospital Stay and Discharge Planner for aging parent - 13 printable pages (rounds log, med changes, discharge checklist, first week plan)",
-    "price": 5.99,
-    "niche": "caregiving"
-  },
-  {
-    "date": "2026-10-23",
-    "listing_id": 4601488713,
-    "title_hint": "Aging in Place Home Safety Checklist - 12 pages, 104 room-by-room checks, fix-it plan, equipment tracker",
-    "price": 4.99,
-    "niche": "caregiving"
-  },
-  {
-    "date": "2026-10-23",
-    "listing_id": 4601514620,
-    "title_hint": "2027 Sinking Funds & Annual Bills Planner spreadsheet (per month / per paycheck) + 7 printables",
-    "price": 6.99,
-    "niche": "newyear-q1"
-  },
-  {
-    "date": "2026-10-23",
-    "platform": "gumroad",
-    "id": "IUbebBANEDdwp4ENNOaTpw==",
-    "short_url": "https://korichii.gumroad.com/l/rbyzl",
-    "price": 7.99,
-    "title_hint": "Hospital Stay & Discharge Planner"
-  },
-  {
-    "date": "2026-10-23",
-    "platform": "gumroad",
-    "id": "1PkMFufBroC5JlfBFmzbxQ==",
-    "short_url": "https://korichii.gumroad.com/l/qppmck",
-    "price": 6.99,
-    "title_hint": "Aging in Place Home Safety Checklist"
-  },
-  {
-    "date": "2026-10-23",
-    "platform": "gumroad",
-    "id": "fv1PiweIortm8n1y6rGO4Q==",
-    "short_url": "https://korichii.gumroad.com/l/bnmknj",
-    "price": 8.99,
-    "title_hint": "2027 Sinking Funds & Annual Bills Planner"
-  },
-  {
-    "date": "2026-10-24",
-    "listing_id": 4602135045,
-    "title_hint": "Backup Caregiver Handover Kit - 13 printable pages (routine, meds, house notes, daily handover log, cover schedule, debrief)",
-    "price": 5.99,
-    "niche": "caregiving"
-  },
-  {
-    "date": "2026-10-24",
-    "listing_id": 4602160126,
-    "title_hint": "Large Print Daily Board for Seniors - Today Is board, 8 day cards, 10 reminder signs, 16 cupboard labels, phone list (17 pages)",
-    "price": 4.99,
-    "niche": "caregiving"
-  },
-  {
-    "date": "2026-10-24",
-    "listing_id": 4602160402,
-    "title_hint": "2027 Net Worth Tracker spreadsheet (blank + example, summary, by category, charts) + 6 printables",
-    "price": 6.99,
-    "niche": "newyear-q1"
-  },
-  {
-    "date": "2026-10-24",
-    "platform": "gumroad",
-    "id": "BgFIzKeMB4Q9om-kloetRw==",
-    "short_url": "https://korichii.gumroad.com/l/duifhb",
-    "price": 7.99,
-    "title_hint": "Backup Caregiver Handover Kit"
-  },
-  {
-    "date": "2026-10-24",
-    "platform": "gumroad",
-    "id": "WAwSfUQBCvzWBeKCn78iMQ==",
-    "short_url": "https://korichii.gumroad.com/l/ixgzkm",
-    "price": 6.99,
-    "title_hint": "Large Print Daily Board & Home Reminder Signs"
-  },
-  {
-    "date": "2026-10-24",
-    "platform": "gumroad",
-    "id": "8K0Z1gjuVrEErZ_w8nVgHA==",
-    "short_url": "https://korichii.gumroad.com/l/rqfxc",
-    "price": 8.99,
-    "title_hint": "2027 Net Worth Tracker"
-  },
-  {
-    "date": "2026-10-26",
-    "listing_id": 4603329975,
-    "title_hint": "Doctor Visit Planner for Aging Parent - 13 printable pages (pre-visit prep, questions by visit type, visit notes, med change log, tests, referrals, family update)",
-    "price": 5.99,
-    "niche": "caregiving"
-  },
-  {
-    "date": "2026-10-26",
-    "listing_id": 4603352834,
-    "title_hint": "After a Parent Dies Checklist & Estate Organizer - 13 printable pages (first days/weeks/months, notification tracker, accounts to close, expenses, family tasks)",
-    "price": 5.99,
-    "niche": "caregiving"
-  },
-  {
-    "date": "2026-10-26",
-    "listing_id": 4603353046,
-    "title_hint": "2027 Subscription Audit & Cancel Tracker spreadsheet (blank + sample, dashboard, renewal calendar, free trials) + 5 printables",
-    "price": 6.99,
-    "niche": "newyear-q1"
-  },
-  {
-    "date": "2026-10-26",
-    "platform": "gumroad",
-    "id": "His_f5yEgmCgUgQyKAVG1A==",
-    "short_url": "https://korichii.gumroad.com/l/teyxzc",
-    "price": 7.99,
-    "title_hint": "Doctor Visit Planner for an Aging Parent"
-  },
-  {
-    "date": "2026-10-26",
-    "platform": "gumroad",
-    "id": "psswd5KLKFRmDF0Qssht2w==",
-    "short_url": "https://korichii.gumroad.com/l/ejzydw",
-    "price": 7.99,
-    "title_hint": "After a Parent Dies: Family Checklist & Estate Organizer"
-  },
-  {
-    "date": "2026-10-26",
-    "platform": "gumroad",
-    "id": "THVac0IKqVitEAb1NZydVQ==",
-    "short_url": "https://korichii.gumroad.com/l/lunhn",
-    "price": 8.99,
-    "title_hint": "2027 Subscription Audit & Cancel Tracker"
-  },
-  {
-    "date": "2026-10-27",
-    "listing_id": 4604053122,
-    "title_hint": "Holiday Visit Check-In Kit for Aging Parent - 13 printable pages (walk-through checklists OK/Watch/Act, conversation starters, observation log, family debrief & action plan, follow-up)",
-    "price": 4.99,
-    "niche": "caregiving"
-  },
-  {
-    "date": "2026-10-27",
-    "listing_id": 4604030605,
-    "title_hint": "Medical Bills & Insurance Claims Tracker spreadsheet (bills/EOB log, payments, calls, deductible & out-of-pocket summary, blank + sample) + 6 printables",
-    "price": 6.99,
-    "niche": "caregiving"
-  },
-  {
-    "date": "2026-10-27",
-    "listing_id": 4604030639,
-    "title_hint": "2027 Grocery Price Book & Food Budget spreadsheet (unit price + BEST store, monthly budget, store compare, blank + sample) + 5 printables",
-    "price": 5.99,
-    "niche": "newyear-q1"
-  },
-  {
-    "date": "2026-10-27",
-    "platform": "gumroad",
-    "id": "6LVNbuE8k4GwVQ03mwNauA==",
-    "short_url": "https://korichii.gumroad.com/l/gshadx",
-    "price": 6.99,
-    "title_hint": "Holiday Visit Check-In Kit for an Aging Parent"
-  },
-  {
-    "date": "2026-10-27",
-    "platform": "gumroad",
-    "id": "rGOHetS_dm4SSH7RpTwcog==",
-    "short_url": "https://korichii.gumroad.com/l/mmtxu",
-    "price": 8.99,
-    "title_hint": "Medical Bills & Insurance Claims Tracker"
-  },
-  {
-    "date": "2026-10-27",
-    "platform": "gumroad",
-    "id": "HddagSyLAJCWIjk8KuTuzw==",
-    "short_url": "https://korichii.gumroad.com/l/dlokyc",
-    "price": 7.99,
-    "title_hint": "2027 Grocery Price Book & Food Budget Tracker"
-  },
-  {
-    "date": "2026-10-28",
-    "listing_id": 4604768198,
-    "title_hint": "Hiring an In-Home Caregiver Kit - 15 printable pages (care needs, schedule & cost, agency vs independent, agency questions, job description, phone screen, interview questions & scorecard, reference check, trial shift, expectations, first week, 30-day review)",
-    "price": 5.99,
-    "niche": "caregiving"
-  },
-  {
-    "date": "2026-10-28",
-    "listing_id": 4604768244,
-    "title_hint": "Long-Distance Caregiver Planner - 13 printable pages (care snapshot, local support team, who helps with what, weekly call guide & log, changes log, monthly remote admin, visit trip planner, emergency plan, expenses, family update)",
-    "price": 5.99,
-    "niche": "caregiving"
-  },
-  {
-    "date": "2026-10-28",
-    "listing_id": 4604768298,
-    "title_hint": "2027 Monthly Budget Spreadsheet, zero-based (12 monthly tabs, transactions, budget vs actual, dashboard + chart, blank + sample) + 4 printables",
-    "price": 6.99,
-    "niche": "newyear-q1"
-  },
-  {
-    "date": "2026-10-28",
-    "platform": "gumroad",
-    "id": "QFhnX0lx7RyJSrS4v--r-A==",
-    "short_url": "https://korichii.gumroad.com/l/qalrjb",
-    "price": 7.99,
-    "title_hint": "Hiring an In-Home Caregiver Kit"
-  },
-  {
-    "date": "2026-10-28",
-    "platform": "gumroad",
-    "id": "3Ninglw5TuIOlcF1akOpUg==",
-    "short_url": "https://korichii.gumroad.com/l/flbdc",
-    "price": 7.99,
-    "title_hint": "Long-Distance Caregiver Planner"
-  },
-  {
-    "date": "2026-10-28",
-    "platform": "gumroad",
-    "id": "FP5G2C2FwJ0yTXLp-zM-Vw==",
-    "short_url": "https://korichii.gumroad.com/l/tdgyeb",
-    "price": 8.99,
-    "title_hint": "2027 Monthly Budget Spreadsheet (Zero-Based)"
-  }
+ {
+  "date": "2026-10-21",
+  "listing_id": 4600359551,
+  "title_hint": "Shared Care Planner kit - sibling caregiving expense & care spreadsheet + printables",
+  "price": 8.99,
+  "niche": "caregiving"
+ },
+ {
+  "date": "2026-10-21",
+  "listing_id": 4600358707,
+  "title_hint": "Printable caregiver binder, 14 pages, aging parent",
+  "price": 4.99,
+  "niche": "caregiving"
+ },
+ {
+  "date": "2026-10-21",
+  "listing_id": 4600357831,
+  "title_hint": "Emergency information + medication list + weekly medication chart printable",
+  "price": 3.99,
+  "niche": "caregiving"
+ },
+ {
+  "date": "2026-10-22",
+  "platform": "gumroad",
+  "id": "S1y27z19e6cK9c7IHeKHKg==",
+  "short_url": "https://korichii.gumroad.com/l/nbvwhe",
+  "price": 11.99,
+  "title_hint": "Shared Care Planner kit"
+ },
+ {
+  "date": "2026-10-22",
+  "platform": "gumroad",
+  "id": "vslmM8iE28v112HqUQa63A==",
+  "short_url": "https://korichii.gumroad.com/l/pynia",
+  "price": 6.99,
+  "title_hint": "Printable Caregiver Binder 14 pages"
+ },
+ {
+  "date": "2026-10-22",
+  "platform": "gumroad",
+  "id": "XwmqfBwBI-tKmcbaKSydDg==",
+  "short_url": "https://korichii.gumroad.com/l/ebtqa",
+  "price": 4.99,
+  "title_hint": "Emergency info + medication list + weekly chart"
+ },
+ {
+  "date": "2026-10-22",
+  "platform": "gumroad",
+  "id": "78D6y7LXxnnjIS_DKC-1iA==",
+  "short_url": "https://korichii.gumroad.com/l/wdwynv",
+  "price": 0,
+  "title_hint": "FREE weekly medication chart (lead magnet)"
+ },
+ {
+  "date": "2026-10-22",
+  "listing_id": 4600801522,
+  "title_hint": "Moving a Parent to Assisted Living Planner - 12 printable pages (tour checklist, cost comparison, downsizing)",
+  "price": 5.99,
+  "niche": "caregiving"
+ },
+ {
+  "date": "2026-10-22",
+  "listing_id": 4600801808,
+  "title_hint": "Caregiver Timesheet & Pay Tracker spreadsheet (hours, overtime, mileage, payments) + printables",
+  "price": 6.99,
+  "niche": "caregiving"
+ },
+ {
+  "date": "2026-10-22",
+  "listing_id": 4600802120,
+  "title_hint": "2027 Debt Payoff Planner spreadsheet (snowball vs avalanche) + printable trackers",
+  "price": 6.99,
+  "niche": "newyear-q1"
+ },
+ {
+  "date": "2026-10-22",
+  "platform": "gumroad",
+  "id": "aVpGXsgBuhnZk6E4diMY8Q==",
+  "short_url": "https://korichii.gumroad.com/l/wwliz",
+  "price": 7.99,
+  "title_hint": "Moving a Parent to Assisted Living Planner"
+ },
+ {
+  "date": "2026-10-22",
+  "platform": "gumroad",
+  "id": "EddEGbM5ElrsDGmXLfcw8g==",
+  "short_url": "https://korichii.gumroad.com/l/xhlmtf",
+  "price": 8.99,
+  "title_hint": "Caregiver Timesheet & Pay Tracker"
+ },
+ {
+  "date": "2026-10-22",
+  "platform": "gumroad",
+  "id": "40CojCPitQy6rrchL3E5Pw==",
+  "short_url": "https://korichii.gumroad.com/l/gsevn",
+  "price": 8.99,
+  "title_hint": "2027 Debt Payoff Planner"
+ },
+ {
+  "date": "2026-10-23",
+  "listing_id": 4601488653,
+  "title_hint": "Hospital Stay and Discharge Planner for aging parent - 13 printable pages (rounds log, med changes, discharge checklist, first week plan)",
+  "price": 5.99,
+  "niche": "caregiving"
+ },
+ {
+  "date": "2026-10-23",
+  "listing_id": 4601488713,
+  "title_hint": "Aging in Place Home Safety Checklist - 12 pages, 104 room-by-room checks, fix-it plan, equipment tracker",
+  "price": 4.99,
+  "niche": "caregiving"
+ },
+ {
+  "date": "2026-10-23",
+  "listing_id": 4601514620,
+  "title_hint": "2027 Sinking Funds & Annual Bills Planner spreadsheet (per month / per paycheck) + 7 printables",
+  "price": 6.99,
+  "niche": "newyear-q1"
+ },
+ {
+  "date": "2026-10-23",
+  "platform": "gumroad",
+  "id": "IUbebBANEDdwp4ENNOaTpw==",
+  "short_url": "https://korichii.gumroad.com/l/rbyzl",
+  "price": 7.99,
+  "title_hint": "Hospital Stay & Discharge Planner"
+ },
+ {
+  "date": "2026-10-23",
+  "platform": "gumroad",
+  "id": "1PkMFufBroC5JlfBFmzbxQ==",
+  "short_url": "https://korichii.gumroad.com/l/qppmck",
+  "price": 6.99,
+  "title_hint": "Aging in Place Home Safety Checklist"
+ },
+ {
+  "date": "2026-10-23",
+  "platform": "gumroad",
+  "id": "fv1PiweIortm8n1y6rGO4Q==",
+  "short_url": "https://korichii.gumroad.com/l/bnmknj",
+  "price": 8.99,
+  "title_hint": "2027 Sinking Funds & Annual Bills Planner"
+ },
+ {
+  "date": "2026-10-24",
+  "listing_id": 4602135045,
+  "title_hint": "Backup Caregiver Handover Kit - 13 printable pages (routine, meds, house notes, daily handover log, cover schedule, debrief)",
+  "price": 5.99,
+  "niche": "caregiving"
+ },
+ {
+  "date": "2026-10-24",
+  "listing_id": 4602160126,
+  "title_hint": "Large Print Daily Board for Seniors - Today Is board, 8 day cards, 10 reminder signs, 16 cupboard labels, phone list (17 pages)",
+  "price": 4.99,
+  "niche": "caregiving"
+ },
+ {
+  "date": "2026-10-24",
+  "listing_id": 4602160402,
+  "title_hint": "2027 Net Worth Tracker spreadsheet (blank + example, summary, by category, charts) + 6 printables",
+  "price": 6.99,
+  "niche": "newyear-q1"
+ },
+ {
+  "date": "2026-10-24",
+  "platform": "gumroad",
+  "id": "BgFIzKeMB4Q9om-kloetRw==",
+  "short_url": "https://korichii.gumroad.com/l/duifhb",
+  "price": 7.99,
+  "title_hint": "Backup Caregiver Handover Kit"
+ },
+ {
+  "date": "2026-10-24",
+  "platform": "gumroad",
+  "id": "WAwSfUQBCvzWBeKCn78iMQ==",
+  "short_url": "https://korichii.gumroad.com/l/ixgzkm",
+  "price": 6.99,
+  "title_hint": "Large Print Daily Board & Home Reminder Signs"
+ },
+ {
+  "date": "2026-10-24",
+  "platform": "gumroad",
+  "id": "8K0Z1gjuVrEErZ_w8nVgHA==",
+  "short_url": "https://korichii.gumroad.com/l/rqfxc",
+  "price": 8.99,
+  "title_hint": "2027 Net Worth Tracker"
+ },
+ {
+  "date": "2026-10-26",
+  "listing_id": 4603329975,
+  "title_hint": "Doctor Visit Planner for Aging Parent - 13 printable pages (pre-visit prep, questions by visit type, visit notes, med change log, tests, referrals, family update)",
+  "price": 5.99,
+  "niche": "caregiving"
+ },
+ {
+  "date": "2026-10-26",
+  "listing_id": 4603352834,
+  "title_hint": "After a Parent Dies Checklist & Estate Organizer - 13 printable pages (first days/weeks/months, notification tracker, accounts to close, expenses, family tasks)",
+  "price": 5.99,
+  "niche": "caregiving"
+ },
+ {
+  "date": "2026-10-26",
+  "listing_id": 4603353046,
+  "title_hint": "2027 Subscription Audit & Cancel Tracker spreadsheet (blank + sample, dashboard, renewal calendar, free trials) + 5 printables",
+  "price": 6.99,
+  "niche": "newyear-q1"
+ },
+ {
+  "date": "2026-10-26",
+  "platform": "gumroad",
+  "id": "His_f5yEgmCgUgQyKAVG1A==",
+  "short_url": "https://korichii.gumroad.com/l/teyxzc",
+  "price": 7.99,
+  "title_hint": "Doctor Visit Planner for an Aging Parent"
+ },
+ {
+  "date": "2026-10-26",
+  "platform": "gumroad",
+  "id": "psswd5KLKFRmDF0Qssht2w==",
+  "short_url": "https://korichii.gumroad.com/l/ejzydw",
+  "price": 7.99,
+  "title_hint": "After a Parent Dies: Family Checklist & Estate Organizer"
+ },
+ {
+  "date": "2026-10-26",
+  "platform": "gumroad",
+  "id": "THVac0IKqVitEAb1NZydVQ==",
+  "short_url": "https://korichii.gumroad.com/l/lunhn",
+  "price": 8.99,
+  "title_hint": "2027 Subscription Audit & Cancel Tracker"
+ },
+ {
+  "date": "2026-10-27",
+  "listing_id": 4604053122,
+  "title_hint": "Holiday Visit Check-In Kit for Aging Parent - 13 printable pages (walk-through checklists OK/Watch/Act, conversation starters, observation log, family debrief & action plan, follow-up)",
+  "price": 4.99,
+  "niche": "caregiving"
+ },
+ {
+  "date": "2026-10-27",
+  "listing_id": 4604030605,
+  "title_hint": "Medical Bills & Insurance Claims Tracker spreadsheet (bills/EOB log, payments, calls, deductible & out-of-pocket summary, blank + sample) + 6 printables",
+  "price": 6.99,
+  "niche": "caregiving"
+ },
+ {
+  "date": "2026-10-27",
+  "listing_id": 4604030639,
+  "title_hint": "2027 Grocery Price Book & Food Budget spreadsheet (unit price + BEST store, monthly budget, store compare, blank + sample) + 5 printables",
+  "price": 5.99,
+  "niche": "newyear-q1"
+ },
+ {
+  "date": "2026-10-27",
+  "platform": "gumroad",
+  "id": "6LVNbuE8k4GwVQ03mwNauA==",
+  "short_url": "https://korichii.gumroad.com/l/gshadx",
+  "price": 6.99,
+  "title_hint": "Holiday Visit Check-In Kit for an Aging Parent"
+ },
+ {
+  "date": "2026-10-27",
+  "platform": "gumroad",
+  "id": "rGOHetS_dm4SSH7RpTwcog==",
+  "short_url": "https://korichii.gumroad.com/l/mmtxu",
+  "price": 8.99,
+  "title_hint": "Medical Bills & Insurance Claims Tracker"
+ },
+ {
+  "date": "2026-10-27",
+  "platform": "gumroad",
+  "id": "HddagSyLAJCWIjk8KuTuzw==",
+  "short_url": "https://korichii.gumroad.com/l/dlokyc",
+  "price": 7.99,
+  "title_hint": "2027 Grocery Price Book & Food Budget Tracker"
+ },
+ {
+  "date": "2026-10-28",
+  "listing_id": 4604768198,
+  "title_hint": "Hiring an In-Home Caregiver Kit - 15 printable pages (care needs, schedule & cost, agency vs independent, agency questions, job description, phone screen, interview questions & scorecard, reference check, trial shift, expectations, first week, 30-day review)",
+  "price": 5.99,
+  "niche": "caregiving"
+ },
+ {
+  "date": "2026-10-28",
+  "listing_id": 4604768244,
+  "title_hint": "Long-Distance Caregiver Planner - 13 printable pages (care snapshot, local support team, who helps with what, weekly call guide & log, changes log, monthly remote admin, visit trip planner, emergency plan, expenses, family update)",
+  "price": 5.99,
+  "niche": "caregiving"
+ },
+ {
+  "date": "2026-10-28",
+  "listing_id": 4604768298,
+  "title_hint": "2027 Monthly Budget Spreadsheet, zero-based (12 monthly tabs, transactions, budget vs actual, dashboard + chart, blank + sample) + 4 printables",
+  "price": 6.99,
+  "niche": "newyear-q1"
+ },
+ {
+  "date": "2026-10-28",
+  "platform": "gumroad",
+  "id": "QFhnX0lx7RyJSrS4v--r-A==",
+  "short_url": "https://korichii.gumroad.com/l/qalrjb",
+  "price": 7.99,
+  "title_hint": "Hiring an In-Home Caregiver Kit"
+ },
+ {
+  "date": "2026-10-28",
+  "platform": "gumroad",
+  "id": "3Ninglw5TuIOlcF1akOpUg==",
+  "short_url": "https://korichii.gumroad.com/l/flbdc",
+  "price": 7.99,
+  "title_hint": "Long-Distance Caregiver Planner"
+ },
+ {
+  "date": "2026-10-28",
+  "platform": "gumroad",
+  "id": "FP5G2C2FwJ0yTXLp-zM-Vw==",
+  "short_url": "https://korichii.gumroad.com/l/tdgyeb",
+  "price": 8.99,
+  "title_hint": "2027 Monthly Budget Spreadsheet (Zero-Based)"
+ },
+ {
+  "date": "2026-10-29",
+  "listing_id": 4605473817,
+  "title": "Aging Parent Driving Safety Kit - 13 printable pages (warning signs checklist, ride-along log, doctor questions, car set-up & gentle limits, conversation planner & replies, family driving agreement, transportation options, weekly rides, ride helpers, car vs ride costs, staying-connected & 30-day check-in)",
+  "price": 5.99,
+  "niche": "caregiving"
+ },
+ {
+  "date": "2026-10-29",
+  "listing_id": 4605492914,
+  "title": "Medication Refill Tracker spreadsheet (days supply, run-out & order-by dates, status, ask-prescriber flag, refill log, monthly costs, dashboard next 10 refills, blank + sample) + 5 printables",
+  "price": 5.99,
+  "niche": "caregiving"
+ },
+ {
+  "date": "2026-10-29",
+  "listing_id": 4605473989,
+  "title": "2027 Tax Season Organizer spreadsheet (34-document checklist + progress, income by type, donations, medical, mileage, estimated payments, preparer questions, blank + sample) + 5 printables",
+  "price": 6.99,
+  "niche": "newyear-q1"
+ },
+ {
+  "date": "2026-10-29",
+  "platform": "gumroad",
+  "id": "-GVxpbI6kvFNKarUE3MnMQ==",
+  "short_url": "https://korichii.gumroad.com/l/joggtk",
+  "price": 7.99,
+  "title_hint": "Aging Parent Driving Safety Kit"
+ },
+ {
+  "date": "2026-10-29",
+  "platform": "gumroad",
+  "id": "uSD8xFnkQQjRbFh-vK0pkQ==",
+  "short_url": "https://korichii.gumroad.com/l/vmicnh",
+  "price": 7.99,
+  "title_hint": "Medication Refill Tracker"
+ },
+ {
+  "date": "2026-10-29",
+  "platform": "gumroad",
+  "id": "yDVAp_r_cYGE4kDoc7r9cw==",
+  "short_url": "https://korichii.gumroad.com/l/bmngrp",
+  "price": 8.99,
+  "title_hint": "2027 Tax Season Organizer"
+ }
 ]
