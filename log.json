@@ -366,5 +366,50 @@
     "short_url": "https://korichii.gumroad.com/l/bmngrp",
     "price": 8.99,
     "title_hint": "2027 Tax Season Organizer"
+  },
+  {
+    "date": "2026-10-30",
+    "listing_id": 4606213566,
+    "title_hint": "Health & Drug Plan Comparison spreadsheet for aging parent / Medicare open enrollment (5 plans, yearly + worst-case cost, rank, doctor check, drug check, call log, decision, blank + sample) + 5 printables",
+    "price": 5.99,
+    "niche": "caregiving"
+  },
+  {
+    "date": "2026-10-30",
+    "listing_id": 4606213660,
+    "title_hint": "Family Care Meeting Kit - 13 printable pages (meeting planner, pre-meeting survey, parent snapshot, parent's voice, agenda, ground rules & facilitator script, hard topics cards, who does what, money & time contributions, decisions log, follow-up plan, notes)",
+    "price": 5.99,
+    "niche": "caregiving"
+  },
+  {
+    "date": "2026-10-30",
+    "listing_id": 4606194943,
+    "title_hint": "2027 Savings Goals Tracker spreadsheet (10 goals, per month/week needed, on-track status, deposits log, monthly totals + chart, 52-week challenge, dashboard, blank + sample) + 5 printables",
+    "price": 6.99,
+    "niche": "newyear-q1"
+  },
+  {
+    "date": "2026-10-30",
+    "platform": "gumroad",
+    "id": "DJZy4DoH7yestcauRbzY5Q==",
+    "short_url": "https://korichii.gumroad.com/l/gbqlb",
+    "price": 7.99,
+    "title_hint": "Health & Drug Plan Comparison for Aging Parent"
+  },
+  {
+    "date": "2026-10-30",
+    "platform": "gumroad",
+    "id": "2Az9XU9JSKkqJJH1MWwQzg==",
+    "short_url": "https://korichii.gumroad.com/l/owalml",
+    "price": 7.99,
+    "title_hint": "Family Care Meeting Kit"
+  },
+  {
+    "date": "2026-10-30",
+    "platform": "gumroad",
+    "id": "l99EioT8x9uHZWEZ31TrSA==",
+    "short_url": "https://korichii.gumroad.com/l/iorun",
+    "price": 8.99,
+    "title_hint": "2027 Savings Goals Tracker"
   }
 ]
