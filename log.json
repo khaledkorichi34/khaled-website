@@ -411,5 +411,50 @@
     "short_url": "https://korichii.gumroad.com/l/iorun",
     "price": 8.99,
     "title_hint": "2027 Savings Goals Tracker"
+  },
+  {
+    "date": "2026-10-31",
+    "listing_id": 4606849409,
+    "title_hint": "Caregiver Burnout and Respite Planner - 13 printable pages (weekly check-in, warning signs plan, task inventory, ask-for-help menu, support map, respite options, break calendar, boundaries scripts, own health, recharge list, back-up plan, monthly reset)",
+    "price": 4.99,
+    "niche": "caregiving"
+  },
+  {
+    "date": "2026-10-31",
+    "listing_id": 4606871090,
+    "title_hint": "Clear Out a Parent's House Inventory spreadsheet / downsizing planner (rooms, decisions, family claims + DISCUSS flag, sales, expenses, summary by room + chart, blank + sample) + 5 printables (sorting sheet, wish list, timeline, donation log, fair-sharing rounds)",
+    "price": 6.99,
+    "niche": "caregiving"
+  },
+  {
+    "date": "2026-10-31",
+    "listing_id": 4606871118,
+    "title_hint": "2027 Side Hustle Income & Expense Tracker spreadsheet (income gross/fees/net, paid/pending, expenses, mileage, monthly profit + tax set-aside + goal, dashboard + 2 charts, blank + sample) + 4 printables",
+    "price": 6.99,
+    "niche": "newyear-q1"
+  },
+  {
+    "date": "2026-10-31",
+    "platform": "gumroad",
+    "id": "bjFqjofNrRBYiHJOHI0r6w==",
+    "short_url": "https://korichii.gumroad.com/l/xuiei",
+    "price": 6.99,
+    "title_hint": "Caregiver Burnout & Respite Planner"
+  },
+  {
+    "date": "2026-10-31",
+    "platform": "gumroad",
+    "id": "IDgrpT1IS7HMta-twA0omw==",
+    "short_url": "https://korichii.gumroad.com/l/scpgeh",
+    "price": 8.99,
+    "title_hint": "Parent's Home Clear-Out & Downsizing Inventory Kit"
+  },
+  {
+    "date": "2026-10-31",
+    "platform": "gumroad",
+    "id": "T_ziwhBytWTkr_cfqhTQBA==",
+    "short_url": "https://korichii.gumroad.com/l/jqekgc",
+    "price": 8.99,
+    "title_hint": "2027 Side Hustle Income & Expense Tracker"
   }
 ]
