@@ -456,5 +456,50 @@
     "short_url": "https://korichii.gumroad.com/l/jqekgc",
     "price": 8.99,
     "title_hint": "2027 Side Hustle Income & Expense Tracker"
+  },
+  {
+    "date": "2026-11-01",
+    "listing_id": 4607422801,
+    "title_hint": "Dementia Care Log & Behavior Tracker - 13 printable pages (About Me profile, daily routine, daily care log, behavior log, evening/sundowning tracker, sleep log, meals & fluids, what helps, changes log for doctor, appointment prep, wandering & safety plan, caregiver check-in)",
+    "price": 5.99,
+    "niche": "caregiving"
+  },
+  {
+    "date": "2026-11-01",
+    "listing_id": 4607422853,
+    "title_hint": "Parent's Finances Organizer spreadsheet (accounts, income, bills, payments 2027, auto bill checklist, summary + chart, blank + sample) + 6 printables (first 30 days, accounts & contacts, bill-pay checklist, authority & paperwork, scam watch, monthly money review)",
+    "price": 6.99,
+    "niche": "caregiving"
+  },
+  {
+    "date": "2026-11-01",
+    "listing_id": 4607443660,
+    "title_hint": "2027 Goal & Habit Tracker spreadsheet (setup 12 habits, 12 month tabs auto dates, goals with quarterly totals & status, dashboard heat map + chart, blank + sample) + 5 printables (goals at a glance, Q1 90-day plan, monthly habit tracker, weekly review, habit year grid)",
+    "price": 6.99,
+    "niche": "newyear-q1"
+  },
+  {
+    "date": "2026-11-01",
+    "platform": "gumroad",
+    "id": "TROy1SQ7CCAkr44gHpOrng==",
+    "short_url": "https://korichii.gumroad.com/l/ufmgjn",
+    "price": 7.99,
+    "title_hint": "Dementia Care Log & Behavior Tracker"
+  },
+  {
+    "date": "2026-11-01",
+    "platform": "gumroad",
+    "id": "EP10x627xs9qx4ISJue5PQ==",
+    "short_url": "https://korichii.gumroad.com/l/tnlxjs",
+    "price": 8.99,
+    "title_hint": "Parent's Finances Organizer"
+  },
+  {
+    "date": "2026-11-01",
+    "platform": "gumroad",
+    "id": "KSQJcVf2Ja7FYSYpv8z2iQ==",
+    "short_url": "https://korichii.gumroad.com/l/rdbzxu",
+    "price": 8.99,
+    "title_hint": "2027 Goal & Habit Tracker"
   }
 ]
