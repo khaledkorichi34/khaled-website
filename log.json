@@ -501,5 +501,50 @@
     "short_url": "https://korichii.gumroad.com/l/rdbzxu",
     "price": 8.99,
     "title_hint": "2027 Goal & Habit Tracker"
+  },
+  {
+    "date": "2026-11-02",
+    "listing_id": 4608073206,
+    "title_hint": "Senior Care Cost Calculator spreadsheet (Money: income/savings/family + yearly increase %, Compare 5 care options: in-home hours x rate, assisted living, memory care, adult day, monthly gap, months covered, rank + chart, 10-year savings Runway + chart, Visit Log, blank + sample) + 4 printables (cost worksheet, questions to ask about costs, funding sources checklist, decision summary)",
+    "price": 6.99,
+    "niche": "caregiving"
+  },
+  {
+    "date": "2026-11-02",
+    "listing_id": 4608073358,
+    "title_hint": "Parent's Wishes Workbook / advance care planning conversation guide - 13 printable pages (start here, conversation planner, what matters most scale, health care wishes prompts, who speaks for me, medical snapshot, where things are kept, daily life & care preferences, comfort at end of life, funeral/memorial wishes, people to tell & messages, family conversation notes, review record)",
+    "price": 5.99,
+    "niche": "caregiving"
+  },
+  {
+    "date": "2026-11-02",
+    "listing_id": 4608052955,
+    "title_hint": "2027 Insurance Review Tracker spreadsheet (20 policies, yearly/monthly cost from frequency, renewal countdown + Renews soon status, summary by type + renewal calendar + chart, 3 quote comparison tabs with premium+deductible, saving, rank & best pick, calls & claims log, blank + sample) + 4 printables (insurance at a glance, annual review checklist, quote comparison worksheet, calls & claims record)",
+    "price": 6.99,
+    "niche": "newyear-q1"
+  },
+  {
+    "date": "2026-11-02",
+    "platform": "gumroad",
+    "id": "EvhrtFL7M8idsUkuD1K6IA==",
+    "short_url": "https://korichii.gumroad.com/l/hpqazj",
+    "price": 8.99,
+    "title_hint": "Senior Care Cost Calculator"
+  },
+  {
+    "date": "2026-11-02",
+    "platform": "gumroad",
+    "id": "9whPUXTdau0Gc1rlgaUmqg==",
+    "short_url": "https://korichii.gumroad.com/l/zsqcw",
+    "price": 7.99,
+    "title_hint": "Parent's Wishes Workbook"
+  },
+  {
+    "date": "2026-11-02",
+    "platform": "gumroad",
+    "id": "uMvksgEVxCxlP0520-srYg==",
+    "short_url": "https://korichii.gumroad.com/l/pejmz",
+    "price": 8.99,
+    "title_hint": "2027 Insurance Review Tracker"
   }
 ]
