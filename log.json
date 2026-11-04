@@ -591,5 +591,53 @@
   "short_url": "https://korichii.gumroad.com/l/hrgamg",
   "price": 8.99,
   "title_hint": "2027 Paycheck Budget Planner"
+ },
+ {
+  "date": "2026-11-04",
+  "listing_id": 4609564347,
+  "title": "Prescription Price Comparison Spreadsheet for Aging Parent, Pharmacy Cost Compare and Medication Savings Tracker for Excel & Google Sheets",
+  "price": 6.99,
+  "niche": "caregiving",
+  "title_hint": "Prescription Price Comparison spreadsheet (5 options x 20 drugs, fills/yr from days per fill, lowest price + cheapest option, yearly now vs best, savings, Summary per option + best mix + chart, Call Log; blank + sample) + 4 printables (price quote worksheet, pharmacy call script, medication list, decision record)"
+ },
+ {
+  "date": "2026-11-04",
+  "listing_id": 4609564517,
+  "title": "Health Readings Tracker Spreadsheet for Aging Parent, Blood Pressure Log and Blood Sugar Tracker with Doctor Summary, Excel & Google Sheets",
+  "price": 5.99,
+  "niche": "caregiving",
+  "title_hint": "Health Readings Tracker spreadsheet (Setup doctor ranges, Log 400 rows BP/pulse/sugar+timing/weight/oxygen/temp, auto flags + weight change, Doctor Summary by date range count/avg/min/max/flags, 3 charts; blank + sample) + 4 printables (daily readings log, BP AM/PM log, blood sugar week log, doctor visit summary)"
+ },
+ {
+  "date": "2026-11-04",
+  "listing_id": 4609585404,
+  "title": "2027 Shared Expense Tracker Spreadsheet for Excel & Google Sheets, Couples Budget Split Bills Calculator, Roommate Expense Tracker",
+  "price": 6.99,
+  "niche": "new-year",
+  "title_hint": "2027 Shared Expense Tracker spreadsheet (2-4 people usual split %, 400 expenses with custom split weights, Settle-ups, Balances net + who pays whom, Monthly 2027 by person + by category + charts; blank + sample) + 4 printables (expense log, monthly settle-up, shared bills agreement, money talk checklist)"
+ },
+ {
+  "date": "2026-11-04",
+  "platform": "gumroad",
+  "id": "jmu18667EMW6p6LcQwwZYg==",
+  "short_url": "https://korichii.gumroad.com/l/ghdqhf",
+  "price": 8.99,
+  "title_hint": "Prescription Price Comparison"
+ },
+ {
+  "date": "2026-11-04",
+  "platform": "gumroad",
+  "id": "7VxcwVrExHlp7-RjQlrc3w==",
+  "short_url": "https://korichii.gumroad.com/l/bogch",
+  "price": 7.99,
+  "title_hint": "Health Readings Tracker"
+ },
+ {
+  "date": "2026-11-04",
+  "platform": "gumroad",
+  "id": "CAkOFU8z2xnKrsV9bdCcbA==",
+  "short_url": "https://korichii.gumroad.com/l/ylnvoq",
+  "price": 8.99,
+  "title_hint": "2027 Shared Expense Tracker"
  }
 ]
