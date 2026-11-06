@@ -687,5 +687,53 @@
   "short_url": "https://korichii.gumroad.com/l/jqwqve",
   "price": 8.99,
   "title_hint": "No Buy Year 2027 Tracker"
+ },
+ {
+  "date": "2026-11-06",
+  "listing_id": 4611090704,
+  "title": "Long-Term Care Insurance Claim Tracker Spreadsheet for Aging Parent, LTC Elimination Period and Claims Log for Excel & Google Sheets",
+  "price": 6.99,
+  "niche": "caregiving",
+  "title_hint": "LTC Insurance Claim Tracker spreadsheet (Policy: daily/monthly max, benefit pool, elimination days calendar/service; Care Log 400 rows elimination day # + benefit day + over daily max; Claims 150 rows days waiting/not covered/FOLLOW UP; Calls; Summary + monthly chart; blank + sample) + 4 printables (claim info sheet, elimination day counter, monthly claim checklist, call log)"
+ },
+ {
+  "date": "2026-11-06",
+  "listing_id": 4611072459,
+  "title": "Medicaid Application Organizer Spreadsheet for Aging Parent, Nursing Home Medicaid Document Checklist and Look-Back Tracker for Excel",
+  "price": 6.99,
+  "niche": "caregiving",
+  "title_hint": "Medicaid long-term care Application Organizer spreadsheet (Setup look-back months + asset limit; 41-document checklist; Assets countable Y/N/Ask + statements short; Income; Look-Back Log 300 rows in-window + EXPLAIN flag; Calls & Deadlines; Summary; blank + sample) + 5 printables"
+ },
+ {
+  "date": "2026-11-06",
+  "listing_id": 4611072791,
+  "title": "2027 HSA and FSA Tracker Spreadsheet for Excel & Google Sheets, Medical Expense and Receipt Log, FSA Deadline and Contribution Tracker",
+  "price": 6.99,
+  "niche": "new-year",
+  "title_hint": "2027 HSA & FSA Tracker spreadsheet (Setup 4 accounts with limits/catch-up/deadline/carryover; Contributions; Expenses 400 rows card vs out of pocket, receipt, reimbursed/saving for later; Summary room left, balance, USE IT warning, claimable; category + monthly chart; blank + sample) + 4 printables"
+ },
+ {
+  "date": "2026-11-06",
+  "platform": "gumroad",
+  "id": "7c-2X7p87_9d0UwaTc2vCw==",
+  "short_url": "https://korichii.gumroad.com/l/qlirqo",
+  "price": 8.99,
+  "title_hint": "Long-Term Care Insurance Claim Tracker"
+ },
+ {
+  "date": "2026-11-06",
+  "platform": "gumroad",
+  "id": "R2lbrU6DAdndecqIkhqb6Q==",
+  "short_url": "https://korichii.gumroad.com/l/bswjd",
+  "price": 8.99,
+  "title_hint": "Medicaid Application Organizer"
+ },
+ {
+  "date": "2026-11-06",
+  "platform": "gumroad",
+  "id": "k_Dq05tpBdPI-3zR2sv4pw==",
+  "short_url": "https://korichii.gumroad.com/l/iqvmgt",
+  "price": 8.99,
+  "title_hint": "2027 HSA & FSA Tracker"
  }
 ]
