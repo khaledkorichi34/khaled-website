@@ -735,5 +735,53 @@
   "short_url": "https://korichii.gumroad.com/l/iqvmgt",
   "price": 8.99,
   "title_hint": "2027 HSA & FSA Tracker"
+ },
+ {
+  "date": "2026-11-09",
+  "listing_id": 4613090783,
+  "title": "Turning 65 Medicare Enrollment Planner Spreadsheet, Medicare Sign Up Checklist for Aging Parent, Part B Late Penalty Calculator",
+  "price": 6.99,
+  "niche": "caregiving",
+  "title_hint": "Turning 65 Medicare Enrollment Planner spreadsheet (Timeline from DOB: IEP open/close, coverage start, job SEP, Medigap OE, Part B/Part D late-penalty estimates + status; Key Dates with days left; 24-task Checklist with due dates; Documents; Coverage Choices Medigap+PartD vs Advantage; Calls; blank + sample) + 5 printables"
+ },
+ {
+  "date": "2026-11-09",
+  "listing_id": 4613090799,
+  "title": "Senior Benefits Application Tracker Spreadsheet for Aging Parent, Medicare Savings Program, SNAP and Energy Help Organizer for Excel",
+  "price": 6.99,
+  "niche": "caregiving",
+  "title_hint": "Senior Benefits Application Tracker spreadsheet (Profile income + countable assets; Programs 16 common + blank rows, income/asset check vs typed limits, status, decision due, approved $/month, renewal, Next step flag; Documents 19; Calls; Summary + status chart; blank + sample) + 5 printables (screening worksheet, tracker, documents, renewal calendar, call log)"
+ },
+ {
+  "date": "2026-11-09",
+  "listing_id": 4613090813,
+  "title": "2027 Retirement Savings Tracker Spreadsheet for Excel & Google Sheets, 401k and IRA Contribution Tracker, Employer Match Calculator",
+  "price": 6.99,
+  "niche": "new-year",
+  "title_hint": "2027 Retirement Savings Tracker spreadsheet (Setup salary/pay frequency/paychecks left/catch-up 50+ & 60-63; limits by group 401k-403b-TSP/457b/IRA/SIMPLE; 6 accounts with match; Contributions 400 rows me vs employer; Summary room left, per paycheck to max, match check, savings rate, monthly chart; blank + sample) + 5 printables"
+ },
+ {
+  "date": "2026-11-09",
+  "platform": "gumroad",
+  "id": "f8Rz2KhKJRoVzB8WIxdQ3Q==",
+  "short_url": "https://korichii.gumroad.com/l/jrywpg",
+  "price": 8.99,
+  "title_hint": "Turning 65 Medicare Enrollment Planner"
+ },
+ {
+  "date": "2026-11-09",
+  "platform": "gumroad",
+  "id": "eYLi7bxKqKZgPFCgfC955A==",
+  "short_url": "https://korichii.gumroad.com/l/nefhqe",
+  "price": 8.99,
+  "title_hint": "Senior Benefits Application Tracker"
+ },
+ {
+  "date": "2026-11-09",
+  "platform": "gumroad",
+  "id": "QkXsN-VmNTETYiOGe41P8g==",
+  "short_url": "https://korichii.gumroad.com/l/zfpdo",
+  "price": 8.99,
+  "title_hint": "2027 Retirement Savings Tracker"
  }
 ]
