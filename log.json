@@ -783,5 +783,78 @@
   "short_url": "https://korichii.gumroad.com/l/zfpdo",
   "price": 8.99,
   "title_hint": "2027 Retirement Savings Tracker"
+ },
+ {
+  "date": "2026-11-10",
+  "listing_id": 4613884452,
+  "title": "IRMAA Calculator Spreadsheet, Medicare IRMAA Planner, Roth Conversion Headroom, SSA-44 Appeal Checklist, Excel & Google Sheets",
+  "price": 14.99,
+  "niche": "medicare",
+  "keyword": "irmaa calculator spreadsheet",
+  "total_results": 22,
+  "best_competitor_views": 256,
+  "competitors_note": "65506485 256v/2fav $17.99; 61624254 620v/11fav $19.99 (IRMAA calc + Medicare guide); 67410653 320v $8.99; IRMAA appeal kit 68236734 20v $24.99",
+  "gumroad_url": "https://korichii.gumroad.com/l/lgxlvg",
+  "gumroad_price": 16.99,
+  "files": "ZIP: blank xlsx + SAMPLE xlsx + large print PDF Letter/A4 + START_HERE",
+  "images": 9,
+  "keywords_researched": {
+   "medigap vs medicare advantage": 20,
+   "medicare agent client intake form": 1,
+   "medicare open enrollment checklist": 54,
+   "medicare supplement comparison chart": 0,
+   "medicare agent fact finder": 1,
+   "medicare part d drug cost": 20,
+   "irmaa calculator spreadsheet": 22,
+   "medicare advantage plan ending": 3,
+   "medicare irmaa planner": 31,
+   "medicare insurance agent planner": 26,
+   "medicare binder printable": 92,
+   "medicare cost calculator": 24,
+   "irmaa appeal life changing event": 1,
+   "irmaa calculator 2027": 1,
+   "roth conversion irmaa spreadsheet": 10
+  },
+  "yesterday_views": {
+   "4613090783": 0,
+   "4613090799": 0,
+   "4613090813": 0
+  },
+  "last5_views": {
+   "4613090813": 0,
+   "4613090799": 0,
+   "4613090783": 0,
+   "4611072791": 0,
+   "4611072459": 0
+  }
+ },
+ {
+  "date": "2026-11-10",
+  "platform": "gumroad",
+  "id": "LxnlLtQ_tKiyieGe33_fCg==",
+  "short_url": "https://korichii.gumroad.com/l/lgxlvg",
+  "price": 16.99,
+  "title_hint": "IRMAA Calculator Spreadsheet & SSA-44 Planner"
+ },
+ {
+  "date": "2026-11-10",
+  "rewrites": [
+   {
+    "listing_id": 4604030605,
+    "keyword": "medical bill tracker spreadsheet",
+    "total_results": 384,
+    "old_title": "Medical Bills Tracker Spreadsheet for Excel and Google Sheets, Insurance Claims & EOB Log, Deductible Tracker + Printables",
+    "new_title": "Medical Bill Tracker Spreadsheet, Insurance Claim & EOB Organizer, Deductible Tracker, Medical Expense Log, Excel Google Sheets + Printables",
+    "views_before": 2,
+    "favorites_before": 1,
+    "tags_changed": true
+   }
+  ],
+  "hand_rewritten_do_not_touch_before": {
+   "2026-12-10": [
+    4606213566,
+    4607917182
+   ]
+  }
  }
 ]

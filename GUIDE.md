@@ -1,8 +1,10 @@
-# Daily publishing — 3 digital products per day on Etsy (shop DElisaES) AND Gumroad (korichii.gumroad.com)
+# Daily publishing — ONE researched digital product per day on Etsy (shop DElisaES) AND Gumroad (korichii.gumroad.com)
+
+**Plan change 2026-11-10 (Khaled): ONE new product per day, not 3.** The 2026-11-10 audit found 146 listings with 140 lifetime views and 1 sale (Medicare plan comparison). Spend the run on keyword research first (8-12 long-tail keywords; a keyword qualifies only with <1,500 results, 2+ competitors from different shops with 50+ views or 2+ favourites, and no listing of ours on it), then a deeper product and stronger listing. Niche by calendar: Medicare / senior health-insurance paperwork until 2026-12-07; tax season & new-year money paperwork for the same buyer 2026-12-08 to 2027-01-31; afterwards the lines that got views/sales. Price = median of competitors with views, rounded to .99, $7.99-$14.99 for a single product. 7-10 images. Also rewrite title+13 tags of ONE old same-niche listing with <5 views per day (log under "rewrites" in log.json; skip anything rewritten in the last 30 days; don't touch 4606213566 / 4607917182 before 2026-12-10). Where this file says 3 products, a daily mix, 4-5 images or $3.99-$8.99, this paragraph wins.
 
 Owner: Khaled. Report to him in Arabic at the end. Shop id 57330467, USD, Spain-based seller.
 
-## Daily mix (decided by Gemini, Oct 21 2026; review after 30 days or 1000 visits)
+## Daily mix (SUPERSEDED on 2026-11-10 — see top paragraph; kept for history)
 - 2 products: caregiving / family logistics (aging parent, siblings sharing care, medication, appointments, home safety, moving a parent, hospital stay, caregiver self-care, school/family schedules, household admin).
 - 1 product: New Year / Q1 planning (budget, savings challenges, goals, habit trackers, debt payoff, meal/expense planners).
 - Prices: real prices $3.99–$8.99. NO inflated "was" price + big discount (EU reference-price rules).
