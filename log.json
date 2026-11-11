@@ -856,5 +856,71 @@
     4607917182
    ]
   }
+ },
+ {
+  "date": "2026-11-11",
+  "listing_id": 4614670613,
+  "title": "Medigap vs Medicare Advantage Calculator 2027, Medicare Comparison Spreadsheet, Plan G vs Advantage, Open Enrollment, Excel Google Sheets",
+  "price": 11.99,
+  "niche": "medicare",
+  "keyword": "medigap vs medicare advantage",
+  "total_results": 20,
+  "best_competitor_views": 327,
+  "competitors_note": "67410653 MA vs Medigap cost calculator 327v $8.99; 68492800 plan comparison worksheet 314v $12.00; 66706046 107v $12.99; 68267550 97v EUR7.99; 68499609 64v $12.00; 67182528 51v $9.99. Median price of competitors with views $11.99",
+  "differentiators": "10-year view+chart, switch-back (trial right/OEP) check, beyond-cost weighted scorecard, auto cost rules for G/N/HD-G/MA/Original, worst case, SAMPLE copy, 10-page large print PDF Letter+A4",
+  "gumroad_url": "https://korichii.gumroad.com/l/zzzmsc",
+  "gumroad_price": 13.99,
+  "files": "ZIP: BLANK xlsx + SAMPLE xlsx + large print PDF Letter/A4 + START_HERE",
+  "images": 10,
+  "facts_verified": "medicare.gov Costs 2026 (Part B $202.90, ded $283, Part A ded $1,736, Part D cap $2,100); CMS CY2027 Rate Announcement (Part D ded $700, OOP $2,400); CMS Oct 2026 HD-F/G/J $3,050; K/L 2027 $8,360/$4,180; Medigap OEP 6 months; trial right 12 months",
+  "keywords_researched": {
+   "medigap vs medicare advantage": 20,
+   "medicare part d drug cost": 21,
+   "medicare open enrollment checklist": 54,
+   "medicare binder printable": 92,
+   "medicare insurance agent planner": 26,
+   "medicare plan comparison worksheet": 49,
+   "medicare organizer printable": 86,
+   "insurance claim appeal letter": 127,
+   "prior authorization tracker": 141,
+   "large print medicare planner": 44,
+   "medicare appeal letter": 18,
+   "eob tracker": 204,
+   "prior authorization tracker patient": 35,
+   "medicare advantage comparison spreadsheet": 15
+  },
+  "yesterday_views": {
+   "4613884452": 0
+  },
+  "last5_views": {
+   "4613884452": 0,
+   "4613090813": 0,
+   "4613090799": 0,
+   "4613090783": 0,
+   "4611072791": 0
+  }
+ },
+ {
+  "date": "2026-11-11",
+  "platform": "gumroad",
+  "id": "F-Wiru9IhzHBLS_OBFcKpg==",
+  "short_url": "https://korichii.gumroad.com/l/zzzmsc",
+  "price": 13.99,
+  "title_hint": "Medigap vs Medicare Advantage Calculator 2027"
+ },
+ {
+  "date": "2026-11-11",
+  "rewrites": [
+   {
+    "listing_id": 4609564347,
+    "keyword": "prescription cost tracker",
+    "total_results": 30,
+    "old_title": "Prescription Price Comparison Spreadsheet for Aging Parent, Pharmacy Cost Compare and Medication Savings Tracker for Excel & Google Sheets",
+    "new_title": "Prescription Cost Tracker Spreadsheet, Pharmacy Price Comparison, Medication Cost Tracker & Savings Log, Aging Parent, Excel Google Sheets",
+    "views_before": 0,
+    "favorites_before": 0,
+    "tags_changed": true
+   }
+  ]
  }
 ]
