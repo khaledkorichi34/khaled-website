@@ -922,5 +922,79 @@
     "tags_changed": true
    }
   ]
+ },
+ {
+  "date": "2026-11-12",
+  "listing_id": 4615464135,
+  "title": "Medicare Agent Cheat Sheet 2027, Medicare Enrollment Period Quick Reference, Medigap Plan Chart, AEP Desk Card for Insurance Agents",
+  "price": 9.99,
+  "niche": "medicare",
+  "keyword": "medicare agent cheat sheet",
+  "total_results": 5,
+  "best_competitor_views": 238,
+  "competitors_note": "4536029245 Medicare Agent Quick Reference 2026 238v/6fav $14.22 (shop 66868911); 4315614834 Enrollment Period Cheat Sheet for Agents 2025 208v/6fav $4.99 (shop 58128613); 4314159761 Telesales Agent Bundle 1587v/76fav $9.99 (58128613); team licenses $55.55/$111.11 10-14v. Price = median of 50+ view competitors $9.99",
+  "differentiators": "updated for AEP 2027 with sourced 2026+2027 figures, SEP finder incl. 2025 monthly dual/LIS + integrated D-SNP SEP, Medigap A-N chart, 2-page laminate desk card, client review worksheet, 2 large-print client handouts, US Letter + A4",
+  "gumroad_url": "https://korichii.gumroad.com/l/lfxfc",
+  "gumroad_price": 11.99,
+  "files": "ZIP: 12-page reference Letter+A4, desk card Letter+A4, client handout Letter+A4, START_HERE.txt",
+  "images": 9,
+  "facts_verified": "12 Nov 2026: medicare.gov Costs (2026 A ded $1,736, $434/$868, SNF $217, B $202.90/$283, D OOP $2,100; 2027 Part B not yet published); medicare.gov Compare Medigap (K $8,000, L $4,000, HD $2,950 in 2026); CMS CY2027 Rate Announcement Table V-2 (D ded $615->$700, OOP $2,100->$2,400); CMS Medigap 2027 HD F/G/J $3,050, K $8,360, L $4,180; medicare.gov Special Enrollment Periods; CMS dual/LIS SEP job aid",
+  "keywords_researched": {
+   "medicare agent cheat sheet": 5,
+   "medicare agent client tracker": 13,
+   "aep tracker insurance agent": 12,
+   "medicare agent commission tracker": 11,
+   "medicare appeal tracker": 11,
+   "medicare quick reference guide": 12,
+   "aca open enrollment spreadsheet": 18,
+   "social security claiming calculator": 40,
+   "medicare cheat sheet": 62,
+   "insurance agent lead tracker": 69,
+   "health insurance comparison spreadsheet": 72,
+   "insurance agent commission tracker": 121,
+   "medicare supplement comparison chart": 0,
+   "medicare enrollment periods chart": 0,
+   "medigap plan comparison chart": 1,
+   "hdhp vs ppo calculator": 36
+  },
+  "keyword_notes": "medicare agent commission tracker/aep tracker/agent client tracker: <2 competitors with 50+ views; health insurance comparison spreadsheet: we already have 4610341374",
+  "yesterday_views": {
+   "4614670613": 0
+  },
+  "last5_views": {
+   "4614670613": 0,
+   "4613884452": 0,
+   "4613090813": 0,
+   "4613090799": 0,
+   "4613090783": 0
+  },
+  "sales_last_24h": {
+   "etsy": 0,
+   "gumroad": 0
+  }
+ },
+ {
+  "date": "2026-11-12",
+  "platform": "gumroad",
+  "id": "I0EpuxYYM3XZykGiiF5suQ==",
+  "short_url": "https://korichii.gumroad.com/l/lfxfc",
+  "price": 11.99,
+  "title_hint": "Medicare Agent Cheat Sheet 2027"
+ },
+ {
+  "date": "2026-11-12",
+  "rewrites": [
+   {
+    "listing_id": 4610341374,
+    "keyword": "health insurance comparison spreadsheet",
+    "total_results": 72,
+    "related_keyword": "hdhp vs ppo calculator (36)",
+    "old_title": "Family Health Plan Comparison Spreadsheet, Employer Open Enrollment Plan Compare, HSA vs PPO Cost Calculator for Excel & Google Sheets",
+    "new_title": "Health Insurance Comparison Spreadsheet, Open Enrollment Plan Calculator, PPO vs HDHP, HSA Cost Calculator, Family Health Plan Compare",
+    "views_before": 0,
+    "favorites_before": 0,
+    "tags_changed": true
+   }
+  ]
  }
 ]
