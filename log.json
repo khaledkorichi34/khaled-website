@@ -996,5 +996,81 @@
     "tags_changed": true
    }
   ]
+ },
+ {
+  "date": "2026-11-13",
+  "listing_id": 4616259410,
+  "title": "Medicare Agent Planner 2027, AEP Planner, Insurance Agent Planner Printable, Book of Business & Commission Tracker, Excel Google Sheets",
+  "price": 12.99,
+  "niche": "medicare",
+  "keyword": "medicare agent planner",
+  "total_results": 29,
+  "best_competitor_views": 300,
+  "competitors_note": "4595330394 All-in-One Insurance Agent Planner 2026-2027 93v/3fav $12.99 (68157339); 4519264705 agent commission tracker app 300v/13fav $24 (63075078); 4390993096 licensing guide 238v/25fav $6 (61549755); 1680811793 personalized broker notebook 181v/9fav $14; 1533933621 notebook 250v $13; 4571455535 AEP Brain 17v $14.22; 4574136791 AEP planner Excel 24v $7.99. Median price of 50+ view competitors $12.99",
+  "why": "sibling of our best-viewed listing 4607917182 (agent toolkit, 26 views); fewest results among qualifying keywords",
+  "differentiators": "printable planner + live xlsx dashboard in one; calendars from Dec 2026 with enrollment periods shaded; T65 pipeline auto IEP dates incl. 1st-of-month rule; AEP daily scorecard (54 days); commission MISSING/SHORT/CHARGEBACK flags; license 60-day warnings; privacy-first (no MBI/SSN fields); sources on key dates; Letter + A4",
+  "gumroad_url": "https://korichii.gumroad.com/l/umcya",
+  "gumroad_price": 14.99,
+  "files": "ZIP: US Letter PDF 34p + A4 PDF + BLANK xlsx + SAMPLE xlsx + START_HERE.pdf",
+  "images": 9,
+  "facts_verified": "13 Nov 2026: medicare.gov (AEP Oct 15-Dec 7; MA OEP Jan 1-Mar 31; GEP Jan 1-Mar 31, coverage month after; IEP 7 months; job SEP 8 months); 42 CFR 422.2263(a) marketing from Oct 1",
+  "keywords_researched": {
+   "medicare drug plan comparison": 29,
+   "turning 65 medicare checklist": 49,
+   "medicare guide for beginners": 6,
+   "medicare open enrollment checklist": 51,
+   "medicare binder printable": 88,
+   "medicare appeal letter": 18,
+   "insurance agent lead tracker": 69,
+   "insurance agent commission tracker": 122,
+   "medicare agent planner": 29,
+   "medicare advantage vs medigap guide": 8,
+   "medicare part d guide": 46,
+   "medicare planner printable": 208
+  },
+  "keyword_notes": "turning 65 medicare checklist qualifies (626/179/112/92v) but we already have 4613090783; open enrollment checklist qualifies (76/56/53v) but AEP ends Dec 7; drug plan comparison/appeal letter/part d guide: <2 competitors with 50+ views; insurance agent lead/commission tracker crowded (69/122) with $20-50 apps",
+  "yesterday_views": {
+   "4615464135": 0
+  },
+  "last5_views": {
+   "4615464135": 0,
+   "4614670613": 0,
+   "4613884452": 0,
+   "4613090813": 0,
+   "4613090799": 0
+  },
+  "shop_total_views_active": 176,
+  "best_listings": {
+   "4607917182": 26,
+   "4606213566": 11
+  },
+  "sales_last_24h": {
+   "etsy": 0,
+   "gumroad": 0
+  }
+ },
+ {
+  "date": "2026-11-13",
+  "platform": "gumroad",
+  "id": "okPlavPdH6sgqlqm3liTAQ==",
+  "short_url": "https://korichii.gumroad.com/l/umcya",
+  "price": 14.99,
+  "title_hint": "Medicare Agent Planner 2027"
+ },
+ {
+  "date": "2026-11-13",
+  "rewrites": [
+   {
+    "listing_id": 4611090704,
+    "keyword": "long term care insurance claim",
+    "total_results": 15,
+    "old_title": "Long-Term Care Insurance Claim Tracker Spreadsheet for Aging Parent, LTC Elimination Period and Claims Log for Excel & Google Sheets",
+    "new_title": "Long Term Care Insurance Claim Tracker, LTC Claim Organizer, Elimination Period Counter, Care Hours & Benefit Log, Excel Google Sheets",
+    "views_before": 0,
+    "favorites_before": 0,
+    "tags_changed": true,
+    "note": "tiny niche: 15 results, best competitor 20 views - low demand; removed generic tags (excel spreadsheet, google sheets, caregiver gift)"
+   }
+  ]
  }
 ]
