@@ -1072,5 +1072,72 @@
     "note": "tiny niche: 15 results, best competitor 20 views - low demand; removed generic tags (excel spreadsheet, google sheets, caregiver gift)"
    }
   ]
+ },
+ {
+  "date": "2026-11-14",
+  "listing_id": 4617019046,
+  "title": "Medicare Lead Tracker Spreadsheet, Insurance Agent Lead Tracker & Follow Up CRM, Turning 65 IEP Calculator, AEP Sales Tracker, Excel",
+  "price": 14.99,
+  "niche": "medicare",
+  "keyword": "medicare lead tracker",
+  "total_results": 8,
+  "best_competitor_views": 309,
+  "competitors_note": "4317145913 Medicare Lead Tracking Sheet 123v/5fav $4.99 (58128613); 4519264705 Insurance Agent Commission Tracker/CRM/Lead Tracker 309v/13fav $24 (63075078); 4593251858 lead tracker 7v $6.50; 4558500718 AEP season tracker 28v $16.99. Related: 'insurance agent lead tracker' 69 results (2659v, 678v, 309v, 209v, 177v, 163v). Median price of competitors with views ~$15.95 -> capped $14.99",
+  "keywords_researched": {
+   "medicare client intake form": 4,
+   "medicare binder printable": 92,
+   "insurance agent lead tracker": 69,
+   "medicare enrollment checklist": 85,
+   "medicare appeal letter": 18,
+   "medicare fact finder": 1,
+   "medicare lead tracker": 8,
+   "medicare supplement comparison chart": 0,
+   "medicare sales tracker": 12,
+   "final expense lead tracker": 1,
+   "turning 65 lead list": 0,
+   "medicare advantage plan ending": 3
+  },
+  "differentiators": "BLANK+SAMPLE, auto follow-up flag, self-building Call List, DOB->IEP open/close + months to IEP, lead-source ROI (cost per enrollment incl. flat fees), T65 12-month pipeline, monthly activity, 5 printables Letter+A4, no PHI fields",
+  "files": "ZIP (BLANK xlsx, SAMPLE xlsx, printables Letter+A4, Start Here) + Start Here PDF; 8 images",
+  "gumroad_url": "https://korichii.gumroad.com/l/erwjdy",
+  "gumroad_price": 16.99,
+  "feedback_views": {
+   "yesterday_4616259410": {
+    "views": 0,
+    "favorites": 0
+   },
+   "4615464135": 0,
+   "4614670613": 1,
+   "4613884452": 0,
+   "4613090813": 0,
+   "4613090799": 0,
+   "agent_toolkit_4607917182": 26,
+   "medicare_plan_comparison_4606213566": 11
+  },
+  "sales_last_24h": "none (Etsy receipts: only 4219066822 from 2026-11-01; Gumroad sales: [])"
+ },
+ {
+  "date": "2026-11-14",
+  "platform": "gumroad",
+  "id": "qRqJXXih0Li2N8BMz6gM0Q==",
+  "short_url": "https://korichii.gumroad.com/l/erwjdy",
+  "price": 16.99,
+  "title_hint": "Medicare Lead Tracker Spreadsheet"
+ },
+ {
+  "date": "2026-11-14",
+  "rewrites": [
+   {
+    "listing_id": 4611072459,
+    "keyword": "medicaid planning",
+    "total_results": 108,
+    "related_keyword": "medicaid application checklist (11)",
+    "old_title": "Medicaid Application Organizer Spreadsheet for Aging Parent, Nursing Home Medicaid Document Checklist and Look-Back Tracker for Excel",
+    "new_title": "Medicaid Planning Spreadsheet, Nursing Home Medicaid Application Checklist, 5 Year Look Back Tracker, Asset & Income Log, Excel",
+    "views_before": 0,
+    "favorites_before": 0,
+    "tags_changed": true
+   }
+  ]
  }
 ]
