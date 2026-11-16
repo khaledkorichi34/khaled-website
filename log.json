@@ -1139,5 +1139,75 @@
     "tags_changed": true
    }
   ]
+ },
+ {
+  "date": "2026-11-16",
+  "listing_id": 4618395895,
+  "title": "Medicare Enrollment Workbook, Large Print Medicare Planner, Turning 65 Checklist, Plan Comparison Worksheet, Fillable PDF and Excel",
+  "price": 9.99,
+  "niche": "medicare",
+  "keyword": "medicare enrollment workbook",
+  "total_results": 33,
+  "best_competitor_views": 183,
+  "competitors_note": "4538421436 Medicare Enrollment Workbook 183v/8fav $1.99 (49378701, 1 US Letter PDF, not fillable); 4548523336 2027 OE Planner Comparison Workbook 31v/2fav HKD78 (63237943); 4583063373 Your Medicare Guide 2027 MA vs Medigap Workbook 17v $12.99; 4508652637 (454v) is a therapist credentialing workbook - ignored. Related 'large print medicare planner' 46 results: 4597466733 115v EUR7.99, 4613788627 53v $5.99. Median price of medicare competitors with views ~ $10 -> $9.99",
+  "keywords_researched": {
+   "medigap plan g vs plan n": 0,
+   "medicare supplement comparison": 2,
+   "medicare binder printable": 91,
+   "medicare open enrollment checklist": 51,
+   "medicare plan ending": 3,
+   "medicare enrollment workbook": 33,
+   "medicare organizer printable": 85,
+   "large print medicare planner": 46,
+   "medicare part d tracker": 27,
+   "medicare information organizer": 2,
+   "medicare workbook for parents": 18,
+   "medicare cost tracker": 22
+  },
+  "keyword_notes": "plan ending: max 15v; part d tracker / information organizer: only 1 competitor 50+; open enrollment checklist qualifies but ends Dec 7 and we have OE products; enrollment workbook = fewest results among qualifiers and evergreen (turning 65 every month)",
+  "differentiators": "large print 14pt, fillable (443 fields), US Letter + A4, filled SAMPLE, which-window page covering IEP/SEP/GEP/AEP/MA OEP/plan ending/Medigap OEP, birthday-month IEP table, 4-option compare + normal/bad year, xlsx calculator (key dates from DOB, annual cost with flags), call log, ANOC check-up, decision record, after-enroll checklist, scam safety; no year-specific dollar amounts",
+  "files": "ZIP (FILLABLE Letter+A4, SAMPLE Letter+A4, Calculator BLANK+SAMPLE xlsx, START_HERE) + START_HERE PDF; 9 images",
+  "gumroad_url": "https://korichii.gumroad.com/l/weotsf",
+  "gumroad_price": 11.99,
+  "feedback_views": {
+   "yesterday_4617019046": {
+    "views": 0,
+    "favorites": 0
+   },
+   "4616259410": 0,
+   "4615464135": 3,
+   "4614670613": 33,
+   "4613884452": 1,
+   "4613090783": 0,
+   "agent_toolkit_4607917182": 26,
+   "medicare_plan_comparison_4606213566": 11
+  },
+  "feedback_note": "no run on 2026-11-15; Medigap vs Medicare Advantage calculator (4614670613) jumped to 33 views in 5 days - best new listing; agent-focused listings (planner, lead tracker) still 0",
+  "sales_last_24h": "none (Etsy receipts: only 4219066822 from 2026-11-01; Gumroad sales: [])"
+ },
+ {
+  "date": "2026-11-16",
+  "platform": "gumroad",
+  "id": "Jl5jvPbFgsrMfoZWHUUd1w==",
+  "short_url": "https://korichii.gumroad.com/l/weotsf",
+  "price": 11.99,
+  "title_hint": "Medicare Enrollment Workbook Large Print"
+ },
+ {
+  "date": "2026-11-16",
+  "rewrites": [
+   {
+    "listing_id": 4613090783,
+    "keyword": "turning 65 medicare planner",
+    "total_results": 65,
+    "related_keyword": "turning 65 medicare checklist (53)",
+    "old_title": "Turning 65 Medicare Enrollment Planner Spreadsheet, Medicare Sign Up Checklist for Aging Parent, Part B Late Penalty Calculator",
+    "new_title": "Turning 65 Medicare Planner Spreadsheet, Medicare Enrollment Checklist, Part B Late Penalty Calculator, IEP Deadline Tracker, Google Sheets",
+    "views_before": 0,
+    "favorites_before": 0,
+    "tags_changed": true,
+    "note": "competitors: 626v/11fav (Medicare Enrollment Guide + Turning 65 Checklist & Planner), 93v/4fav (Medicare Planner Turning 65, Google Sheets), 51v/4fav (Turning 65 Starter Kit); replaced generic tags (aging parent, senior planner, excel spreadsheet, google sheets, medigap)"
+   }
+  ]
  }
 ]
