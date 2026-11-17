@@ -1209,5 +1209,76 @@
     "note": "competitors: 626v/11fav (Medicare Enrollment Guide + Turning 65 Checklist & Planner), 93v/4fav (Medicare Planner Turning 65, Google Sheets), 51v/4fav (Turning 65 Starter Kit); replaced generic tags (aging parent, senior planner, excel spreadsheet, google sheets, medigap)"
    }
   ]
+ },
+ {
+  "date": "2026-11-17",
+  "listing_id": 4619199037,
+  "title": "Medicare in Spanish, Medicare en Español 2027 Bilingual Workbook, Spanish Medicare Planner, Large Print Plan Comparison, Fillable PDF",
+  "price": 10.99,
+  "niche": "medicare",
+  "keyword": "medicare in spanish",
+  "total_results": 18,
+  "best_competitor_views": 119,
+  "competitors_note": "4601131272 Medicare en Español 2027 HTML app 119v $9.99 (68432822); 4592260342 Kit de Medicare en Español 21v $9.99 (68492800, English edition 4591295642 has 373v); 4596999970 Mi Medicare 2027 12p guide 2v $9.99; 50201405 Spanish planner $29 / bilingual bundle $39 both 0v. Keyword also proven by 4380546258 Spanish agent posts 141v/8fav, 1785241974 medical Spanish phrases 135v/9fav, 4357288123 238v/10fav. Price median of competitors with views ~ $10.97 -> $10.99",
+  "keywords_researched": {
+   "medicare advantage comparison": 50,
+   "medicare part d comparison": 43,
+   "medicare claims tracker": 14,
+   "medicare binder": 134,
+   "insurance appeal letter template": 171,
+   "prior authorization tracker": 144,
+   "medicare spanish": 18,
+   "medicare en español": 8,
+   "medigap plan g": 3,
+   "medicare appeal": 50,
+   "medicare supplement": 18,
+   "medicare in spanish": 18,
+   "bilingual medicare planner": 2
+  },
+  "keyword_notes": "plan comparison / part D: saturated and we already have 4 listings there; medicare appeal (50) qualified (60v,53v/2fav,4fav) - candidate for a later day; medicare en español only 1 competitor 50+; medicare in spanish qualified with fewest results",
+  "differentiators": "bilingual on every page (Spanish text + English headings) vs separate-language competitors at $29-39; large print fillable 19p Letter+A4; filled EJEMPLO; Spanish xlsx calculator (key dates from DOB incl. birthday-on-1st, Medigap OEP, 8-month SEP; normal/bad-year cost of 4 options); 1-800-MEDICARE call script with ES/EN phrases; letters decoder (ANOC/EOC/MSN/EOB/IRMAA); 20-term bilingual glossary; help-paying page; scam log; no year-specific dollar amounts",
+  "files": "ZIP (RELLENABLE Letter+A4, EJEMPLO Letter+A4, Calculadora BLANK+EJEMPLO xlsx, START_HERE) + START_HERE PDF; 8 images",
+  "gumroad_url": "https://korichii.gumroad.com/l/fkphh",
+  "gumroad_price": 12.99,
+  "feedback_views": {
+   "yesterday_4618395895": {
+    "views": 0,
+    "favorites": 0
+   },
+   "4617019046": 0,
+   "4616259410": 0,
+   "4615464135": 4,
+   "4614670613": 39,
+   "4613884452": 1,
+   "agent_toolkit_4607917182": 26,
+   "medicare_plan_comparison_4606213566": 13
+  },
+  "feedback_note": "Medigap vs MA calculator keeps growing (33->39 in 1 day); agent planner/lead tracker still 0 after 4-5 days; enrollment workbook 0 after 1 day",
+  "sales_last_24h": "none (Etsy receipts: only 4219066822 from 2026-11-01; Gumroad sales: [])"
+ },
+ {
+  "date": "2026-11-17",
+  "platform": "gumroad",
+  "id": "MZsHeNGyRpHhWWPVCySv2A==",
+  "short_url": "https://korichii.gumroad.com/l/fkphh",
+  "price": 12.99,
+  "title_hint": "Medicare en Español Bilingual Workbook"
+ },
+ {
+  "date": "2026-11-17",
+  "rewrites": [
+   {
+    "listing_id": 4613090799,
+    "keyword": "senior benefits checklist",
+    "total_results": 28,
+    "related_keyword": "medicare savings program (4)",
+    "old_title": "Senior Benefits Application Tracker Spreadsheet for Aging Parent, Medicare Savings Program, SNAP and Energy Help Organizer for Excel",
+    "new_title": "Senior Benefits Checklist Spreadsheet, Medicare Savings Program & Extra Help Tracker, SNAP, LIHEAP, VA Pension Application Organizer, Excel",
+    "views_before": 0,
+    "favorites_before": 0,
+    "tags_changed": true,
+    "note": "competitors: 4350481913 Medicare Checklist 340v/8fav, 4529724506 elder care transition 28v/6fav, VA aid and attendance checklists (13700507); replaced generic tags (aging parent, caregiver planner, excel spreadsheet, google sheets, senior planner, eldercare organizer)"
+   }
+  ]
  }
 ]
