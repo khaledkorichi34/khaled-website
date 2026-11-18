@@ -1280,5 +1280,102 @@
     "note": "competitors: 4350481913 Medicare Checklist 340v/8fav, 4529724506 elder care transition 28v/6fav, VA aid and attendance checklists (13700507); replaced generic tags (aging parent, caregiver planner, excel spreadsheet, google sheets, senior planner, eldercare organizer)"
    }
   ]
+ },
+ {
+  "date": "2026-11-18",
+  "listing_id": 4620031296,
+  "title": "Medicare Client Intake Form, Medicare Agent Fact Finder, Insurance Agent Intake Form, Client Tracker, Fillable PDF & Excel Google Sheets",
+  "price": 7.99,
+  "niche": "medicare",
+  "keyword": "medicare client intake form",
+  "total_results": 5,
+  "best_competitor_views": 681,
+  "competitors_note": "1762467086 patient intake form (medicaid/medicare) 681v/10fav $7.99 (51512780); 4314202847 Medicare Agent Fact-Finding Worksheet 100v/4fav $4.99 (58128613, 1-page PDF); 4617523825 Medicare Client Intake Form 5v $4.97 (28689020, 2-page non-fillable). Related 'insurance agent intake form' (35 results): 1303477581 2030v/64fav $5, 1339985337 2814v/86fav $5. 'medicare fact finder' 1 result. Price rule: median of competitors with views ~$5 -> floor $7.99.",
+  "product": "10-page fillable PDF (Letter+A4) + SAMPLE copy + Excel/Google Sheets client tracker (auto 65th-birthday month incl. born-on-1st rule, IEP window, Medigap OE end, follow-up flags, dashboard) + Start Here; 9 images",
+  "keywords_researched": {
+   "medigap plan comparison": 29,
+   "medicare supplement comparison chart": 0,
+   "medicare advantage comparison": 53,
+   "medicare part d comparison": 45,
+   "medicare client intake form": 5,
+   "medicare 101 presentation": 0,
+   "medicare binder printable": 91,
+   "medicare appeal letter": 17,
+   "medicare fact finder": 1,
+   "medicare cheat sheet": 63,
+   "insurance agent client review form": 7,
+   "medicare summary notice tracker": 0,
+   "medicare annual review worksheet": 5,
+   "insurance agent intake form": 35
+  },
+  "facts_checked": "medicare.gov 2026-11-18: IEP 7 months (3 before/3 after, born on 1st -> month before); Part B start rules; OEP Oct15-Dec7; MA OEP Jan1-Mar31; SEP examples; Medigap OE 6 months from month 65+ and Part B; GEP Jan1-Mar31",
+  "gumroad_url": "https://korichii.gumroad.com/l/kxnzbd",
+  "media_commit": "d1a519da2370ed7474555fca0b808c81852bd08e",
+  "feedback_yesterday": {
+   "4619199037": {
+    "views": 0,
+    "favorites": 0
+   }
+  },
+  "feedback_recent": {
+   "4618395895": [
+    0,
+    0
+   ],
+   "4617019046": [
+    2,
+    0
+   ],
+   "4616259410": [
+    0,
+    0
+   ],
+   "4615464135": [
+    10,
+    0
+   ],
+   "4614670613": [
+    53,
+    0
+   ],
+   "4613884452": [
+    1,
+    0
+   ],
+   "4606213566": [
+    13,
+    0
+   ],
+   "4607917182": [
+    27,
+    0
+   ]
+  },
+  "sales_check": "no new sales in last 24h (Etsy receipts: only 4219066822 from 2026-11-01; Gumroad sales: none)"
+ },
+ {
+  "date": "2026-11-18",
+  "platform": "gumroad",
+  "id": "WKyaULrqlbM0g3_FTs2Qhg==",
+  "short_url": "https://korichii.gumroad.com/l/kxnzbd",
+  "price": 9.99,
+  "title_hint": "Medicare Client Intake Form & Agent Fact Finder Kit"
+ },
+ {
+  "date": "2026-11-18",
+  "rewrites": [
+   {
+    "listing_id": 4608052955,
+    "keyword": "insurance policy tracker",
+    "total_results": 310,
+    "related_keyword": "insurance organizer spreadsheet (445)",
+    "old_title": "2027 Insurance Tracker Spreadsheet for Excel & Google Sheets, Insurance Policy Organizer, Renewal Quote Comparison + Printables",
+    "new_title": "Insurance Policy Tracker Spreadsheet, Family Insurance Organizer, Renewal Reminder & Quote Comparison, Claims Log, Excel Google Sheets",
+    "views_before": 2,
+    "favorites_before": 0,
+    "tags_changed": true,
+    "note": "competitors with views: 1150951632 7870v/243fav; 4396095215 375v; 4350237470 314v; 4492467032 293v. Removed generic tags (google sheets, excel spreadsheet, 2027 budget, money planner)."
+   }
+  ]
  }
 ]
