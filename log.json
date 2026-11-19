@@ -1377,5 +1377,117 @@
     "note": "competitors with views: 1150951632 7870v/243fav; 4396095215 375v; 4350237470 314v; 4492467032 293v. Removed generic tags (google sheets, excel spreadsheet, 2027 budget, money planner)."
    }
   ]
+ },
+ {
+  "date": "2026-11-19",
+  "listing_id": 4620833226,
+  "title": "Medicare Appeal Kit, Medicare Denial Appeal Letter Template, Insurance Appeal Tracker, Prior Authorization Denied, Fillable PDF & Excel",
+  "price": 12.99,
+  "niche": "medicare",
+  "keyword": "medicare appeal",
+  "total_results": 50,
+  "best_competitor_views": 60,
+  "competitors_note": "4582548370 Medicare Appeal Organizer NOMNC 60v $12.99 (65929252, 15p Letter-only PDF); 1854230584 Home Health Appeals guide 53v/2fav $9.99 (55249493); 4561887243 Medicare Appeal Guide 66p 35v/4fav $19.97 (62581863). All PDF-only, no tracker, no SAMPLE, mostly Letter-only. Median price of competitors with views ~$12.99.",
+  "keywords_researched": {
+   "medicare appeal letter template": 13,
+   "medicare advantage vs original medicare": 2,
+   "medicare checklist printable": 139,
+   "medicare questions to ask": 4,
+   "medicare decision worksheet": 4,
+   "medicare supplement plan g": 1,
+   "medicare summary notice explained": 1,
+   "eob decoder": 8,
+   "medical bill checklist": 161,
+   "new to medicare guide": 34,
+   "medicare caregiver binder": 88,
+   "medicare annual notice of change": 2,
+   "medicare cost calculator": 24,
+   "retirement healthcare cost calculator": 3,
+   "medicare premium calculator": 8,
+   "medicare enrollment cheat sheet": 4,
+   "medicare appeal": 50,
+   "medicare advantage denial appeal": 3,
+   "insurance denial appeal kit": 52,
+   "medicare appeal kit": 13,
+   "medicare denial appeal guide": 14
+  },
+  "keyword_notes": "medicare checklist printable qualifies (184/104/96/63v) but overlaps our enrollment workbook/turning-65 listings; medicare appeal kit/letter template: only 1 competitor 50+; medicare appeal = qualifying, no listing of ours; stays relevant after Dec 7 (Jan-Mar claims/denials)",
+  "differentiators": "covers all 4 paths (Original Medicare 5 levels, MA incl. prior auth, Part D incl. exceptions, fast appeals NOMNC/hospital) + Excel/Sheets tracker with automatic deadline/days left/send-by/decision expected/status/next level, dashboard, call log, documents; fillable 267 fields Letter+A4 large print; filled SAMPLE; 2 fill-in letters + doctor letter request; fridge card",
+  "facts_verified": "19 Nov 2026 medicare.gov: OM L1 by MSN date (CMS: 120 days from receipt, presumed 5 days), L2 180 days, L3-5 60 days, AIC $200 (2027) / $2,000 (2027); MA reconsideration 65 days, 30/60/7 days/72h, +14 ext, auto IRE; Part D redetermination 65 days, 7/14 days/72h, IRE 60 days; fast appeals NOMNC 2 days before, QIO by noon day before, hospital by discharge day",
+  "files": "ZIP (FILLABLE Letter+A4 16p, SAMPLE Letter+A4, Tracker BLANK+SAMPLE xlsx, START_HERE) + START_HERE PDF; 9 images",
+  "media_commit": "cd1d18901915efcebf15e1f1adc1b9aa99b442df",
+  "gumroad_url": "https://korichii.gumroad.com/l/tyrcmt",
+  "gumroad_price": 14.99,
+  "feedback_yesterday": {
+   "4620031296": {
+    "views": 0,
+    "favorites": 0
+   }
+  },
+  "feedback_recent": {
+   "4619199037": [
+    0,
+    0
+   ],
+   "4618395895": [
+    0,
+    0
+   ],
+   "4617019046": [
+    2,
+    0
+   ],
+   "4616259410": [
+    0,
+    0
+   ],
+   "4615464135": [
+    10,
+    0
+   ],
+   "4614670613": [
+    63,
+    0
+   ],
+   "4613884452": [
+    1,
+    0
+   ],
+   "4606213566": [
+    14,
+    0
+   ],
+   "4607917182": [
+    30,
+    0
+   ]
+  },
+  "feedback_note": "Medigap vs MA calculator keeps growing (53->63); agent-only products (planner, lead tracker, intake form) still ~0 - prefer consumer/caregiver Medicare products",
+  "sales_check": "no new sales in last 24h (Etsy receipts: only 4219066822 from 2026-11-01; Gumroad sales: none)"
+ },
+ {
+  "date": "2026-11-19",
+  "platform": "gumroad",
+  "id": "htSQJGAinHJqGLFy-gMJBg==",
+  "short_url": "https://korichii.gumroad.com/l/tyrcmt",
+  "price": 14.99,
+  "title_hint": "Medicare Appeal Kit"
+ },
+ {
+  "date": "2026-11-19",
+  "rewrites": [
+   {
+    "listing_id": 4611072791,
+    "keyword": "hsa receipt tracker",
+    "total_results": 88,
+    "related_keyword": "hsa tracker spreadsheet (241)",
+    "old_title": "2027 HSA and FSA Tracker Spreadsheet for Excel & Google Sheets, Medical Expense and Receipt Log, FSA Deadline and Contribution Tracker",
+    "new_title": "HSA Receipt Tracker Spreadsheet, HSA FSA Tracker 2027, Shoebox Reimbursement Log, Use It or Lose It Countdown, Excel Google Sheets",
+    "views_before": 0,
+    "favorites_before": 0,
+    "tags_changed": true,
+    "note": "competitors: 4355617550 757v/24fav, 4340722452 341v/5fav, 4531303413 244v/3fav (HSA Tracker Spreadsheet), 1814426382 187v; Etsy rejects titles with more than 3 words starting with 2 capitals (HSA/FSA); replaced generic tags (2027 budget, excel spreadsheet, google sheets, finance tracker, new year budget)"
+   }
+  ]
  }
 ]
