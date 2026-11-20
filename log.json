@@ -1489,5 +1489,109 @@
     "note": "competitors: 4355617550 757v/24fav, 4340722452 341v/5fav, 4531303413 244v/3fav (HSA Tracker Spreadsheet), 1814426382 187v; Etsy rejects titles with more than 3 words starting with 2 capitals (HSA/FSA); replaced generic tags (2027 budget, excel spreadsheet, google sheets, finance tracker, new year budget)"
    }
   ]
+ },
+ {
+  "date": "2026-11-20",
+  "listing_id": 4621601378,
+  "title": "Hospital Bill Negotiation Kit, Medical Bill Dispute Letters, Medical Bill Tracker Spreadsheet, Charity Care Application, Medicare Bill Help",
+  "price": 12.99,
+  "niche": "medicare/senior health paperwork - medical bills",
+  "keyword": "hospital bill negotiation",
+  "total_results": 35,
+  "best_competitor_views": 132,
+  "competitors_note": "hospital bill negotiation: 4514414790 132v/2fav CAD24.99 (61317104), 4463302189 94v $9.99 (64776309), 4510800163 74v/3fav $12.99 (65568719), 4509179982 53v $18.73 (66015236); medical bill negotiation (49): 1847667310 214v/12fav $12 guide, 1524135757 260v/25fav (provider-side). Median of viewed competitors ~ $12.99",
+  "keywords_researched": {
+   "medical bill negotiation": 49,
+   "hospital bill negotiation": 35,
+   "medical bill dispute kit": 38,
+   "medical debt tracker": 181,
+   "medicare savings program": 4,
+   "health insurance binder": 291,
+   "social security retirement planner": 281,
+   "retirement checklist printable": 581,
+   "irmaa": 55,
+   "caregiver binder printable": 7208
+  },
+  "keyword_notes": "hospital bill negotiation qualifies (35 results, 4 shops 50+ views), no listing of ours; medical bill dispute kit qualifies (94/53v) - sibling candidate; medicare savings program: 4 results but max 16v; medical debt tracker/health insurance binder/retirement: too crowded; caregiver binder flooded (7208)",
+  "differentiators": "fillable 17p kit Letter+A4 large print + filled SAMPLE; 6 letters (itemized+HIPAA records, error dispute, financial help, lump-sum, payment plan, family contact); 5 scripts; Medicare/QMB/limiting charge page; xlsx tracker with EOB/MSN mismatch, line audit, 501(r) 120/240-day dates, offer & payment plan calculator, dashboard",
+  "facts_verified": "20 Nov 2026: irs.gov 501(r)(6) 120-day ECA wait, 240-day application period, complete application suspends ECAs; FAP+application+PLS widely available on website, free paper; cms.gov MLN7936176 QMB no cost-sharing billing incl. MA; medicare.gov limiting charge 15% 'in many cases'; cms.gov NSA uninsured GFE dispute >=$400 within 120 days, Medicare/Medicaid already protected; hhs.gov HIPAA access 30 days (+30 ext)",
+  "files": "ZIP (FILLABLE Letter+A4 17p, SAMPLE Letter+A4, Tracker BLANK+SAMPLE xlsx, START_HERE) + START_HERE PDF; 9 images",
+  "media_commit": "7cfc0f8bca8abb9d8aa43a6e43b1b208918585c9",
+  "gumroad_url": "https://korichii.gumroad.com/l/bkwiv",
+  "gumroad_price": 14.99,
+  "feedback_yesterday": {
+   "4620833226": {
+    "views": 0,
+    "favorites": 0
+   }
+  },
+  "feedback_recent": {
+   "4620031296": [
+    0,
+    0
+   ],
+   "4619199037": [
+    0,
+    0
+   ],
+   "4618395895": [
+    0,
+    0
+   ],
+   "4617019046": [
+    2,
+    0
+   ],
+   "4616259410": [
+    0,
+    0
+   ],
+   "4615464135": [
+    10,
+    0
+   ],
+   "4614670613": [
+    64,
+    0
+   ],
+   "4613884452": [
+    1,
+    0
+   ],
+   "4606213566": [
+    14,
+    0
+   ],
+   "4607917182": [
+    30,
+    0
+   ]
+  },
+  "feedback_note": "Medigap vs MA calculator 63->64; agent-only products (planner 4616259410, intake 4620031296) still 0 after 7+ days -> do not repeat agent products",
+  "sales_check": "no new sales in last 24h (Etsy receipts: only 4219066822 from 2026-11-01; Gumroad sales: none)"
+ },
+ {
+  "date": "2026-11-20",
+  "platform": "gumroad",
+  "id": "qY_MrLZElEpyeCG9xb5CLQ==",
+  "short_url": "https://korichii.gumroad.com/l/bkwiv",
+  "price": 14.99,
+  "title_hint": "Hospital Bill Negotiation Kit"
+ },
+ {
+  "date": "2026-11-20",
+  "rewrites": [
+   {
+    "listing_id": 4613884452,
+    "keyword": "irmaa",
+    "total_results": 55,
+    "old_title": "IRMAA Calculator Spreadsheet, Medicare IRMAA Planner, Roth Conversion Headroom, SSA-44 Appeal Checklist, Excel & Google Sheets",
+    "new_title": "Medicare IRMAA Calculator Spreadsheet, Roth Conversion Tax Bracket Planner, Part B Premium Surcharge, SSA-44 Appeal, Excel Google Sheets",
+    "views_before": 1,
+    "favorites_before": 0,
+    "tags_changed": true,
+    "note": "traction on 'irmaa' comes from Roth conversion + IRMAA combos (4488235913 268v, 4569872846 349v, 4491414758 214v) and Medicare guide + IRMAA calc (4355677919 635v/11fav); 4600358707 caregiver binder skipped (flooded niche, 7208 results)"
+   }
+  ]
  }
 ]
