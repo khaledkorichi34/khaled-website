@@ -1699,5 +1699,123 @@
     "note": "'tax organizer spreadsheet' flooded (2283, almost all <10v); 'tax document checklist' 607 results (1816057276 101v/3fav); 'medical expense tax deduction tracker' 85 results with 1732113940 3061v/100fav, 1853253375 3678v/139fav, 4329264203 1049v. Replaced generic tags (excel template, google sheets, 2027 planner, finance tracker, tax prep, tax season)."
    }
   ]
+ },
+ {
+  "date": "2026-11-23",
+  "listing_id": 4623696408,
+  "title": "Medicare Part D Cost Calculator 2027, Part D Drug Cost Calculator, Drug Plan Comparison Spreadsheet, Prescription Payment Plan, Excel",
+  "price": 9.99,
+  "niche": "medicare - Part D drug plan costs (sibling of 4614670613 Medigap vs MA calculator, best performer)",
+  "keyword": "medicare part d cost calculator",
+  "total_results": 14,
+  "best_competitor_views": 397,
+  "competitors_note": "4569872846 MA vs Medigap Cost Calculator 397v $8.99 (67410653); 4594537142 Plan Comparison + Part D Cost Calculator 111v $1.99 (68470316); 4582730715 Part D Tracker + Payment Plan Calculator 46v $7.99 (31970963); 4594646636 Part D Drug Cost Calculator 2027 34v $9.99 (68236734, 4 plans/12 drugs). Median viewed price ~$9.99. Ours: 5 plans x 15 drugs, monthly/60/90-day fills, no-deductible tiers, not-covered drugs, insulin $35, month by month per plan, cap/deductible month, worst case, current-plan delta, Payment Plan (Medicare formula, any join month), BLANK+SAMPLE, 5-page large-print guide, 5 printables Letter+A4.",
+  "facts_verified": "medicare.gov 2026-11-23: max Part D deductible $700 in 2027, OOP cap $2,400 in 2027; insulin $35/month no deductible; M3P formula from medicare.gov/prescription-payment-plan/examples (tested: Jan 175, Feb 79.55 for $525/mo at $2,100 cap)",
+  "keywords_researched": {
+   "medigap plan g vs n": 0,
+   "medicare part d cost calculator": 14,
+   "medicare organizer binder": 73,
+   "retirement healthcare cost calculator": 3,
+   "medicare advantage vs medigap": 27,
+   "medicare cost calculator": 24,
+   "medicare supplement plan g": 1,
+   "prescription drug cost tracker": 11,
+   "turning 65 checklist": 58,
+   "medicare enrollment guide": 76,
+   "social security claiming calculator": 45,
+   "medicare explained guide printable": 3,
+   "part d drug plan comparison": 28,
+   "medicare prescription payment plan": 3,
+   "medicare premium calculator": 10
+  },
+  "keyword_note": "social security claiming calculator (45 results; 814v, 217v, 126v, 81v, 80v competitors, prices $12-20) is a strong candidate for the tax/new-year season.",
+  "images": 8,
+  "files": "1 ZIP (2 xlsx + 3 PDF)",
+  "feedback_views": {
+   "4622330604": [
+    0,
+    0
+   ],
+   "4621601378": [
+    0,
+    0
+   ],
+   "4620833226": [
+    0,
+    0
+   ],
+   "4620031296": [
+    0,
+    0
+   ],
+   "4619199037": [
+    0,
+    0
+   ],
+   "4618395895": [
+    0,
+    0
+   ],
+   "4614670613": [
+    81,
+    0
+   ],
+   "4615464135": [
+    16,
+    0
+   ],
+   "4617019046": [
+    2,
+    0
+   ],
+   "4616259410": [
+    1,
+    0
+   ],
+   "4613884452": [
+    1,
+    0
+   ],
+   "4606213566": [
+    20,
+    0
+   ],
+   "4607917182": [
+    30,
+    0
+   ]
+  },
+  "yesterday_listing_views": {
+   "4622330604": 0,
+   "favorites": 0
+  },
+  "feedback_note": "Medigap vs MA calculator 4614670613 now 81 views (12 days) -> made Part D calculator sibling. IRMAA calculator (13 days) 1 view and agent planner (10 days) 1 view: do not repeat those keywords. 11-16..11-21 products still 0 views (under 7 days).",
+  "sales_check": "no new Etsy receipts in last 24h (latest 4219066822 from 2026-11-01); Gumroad /v2/sales empty",
+  "run_note": "no run logged for 2026-11-22 (missed day)"
+ },
+ {
+  "date": "2026-11-23",
+  "platform": "gumroad",
+  "id": "0T-VgmpXd5y0G9LPA_1SnQ==",
+  "short_url": "https://korichii.gumroad.com/l/gsqaph",
+  "price": 11.99,
+  "title_hint": "Medicare Part D Drug Cost Calculator 2027"
+ },
+ {
+  "date": "2026-11-23",
+  "rewrites": [
+   {
+    "listing_id": 4587038937,
+    "keyword": "personal health record printable",
+    "total_results": 305,
+    "related_keyword": "medical binder printable (9091, flooded); large print medical binder seniors (187)",
+    "old_title": "Medical Binder Printable, Health Record, Medication List & Blood Pressure Log",
+    "new_title": "Personal Health Record Printable, Medical Binder Printable, Medication List, Blood Pressure Log, Blood Sugar Log, Doctor Visit Log PDF",
+    "views_before": 3,
+    "favorites_before": 0,
+    "tags_changed": true,
+    "note": "Oldest same-niche listing with <5 views not rewritten before. 'personal health record printable' 305 results with viewed competitors in different shops (4550697046 70v/3fav, 4522448015 73v, 4300742330 97v, 4541893776 59v). Replaced generic tags (medical planner, appointment log, health journal, health tracker) with immunization record, lab results tracker, health organizer, medical info sheet. Did not claim large print (product is not large print)."
+   }
+  ]
  }
 ]
