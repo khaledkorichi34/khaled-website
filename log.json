@@ -1932,5 +1932,128 @@
     "note": "Oldest senior-health-paperwork listing with <5 views not rewritten. Competitors with traction: 4462467458 Hospital Stay Organizer/Hospital Binder/Discharge Planner 173v/17fav, 1896083733 Hospital Stay Binder/Daily Rounds Notes/Patient Advocate 161v, 4535341346 Hospital Go Bag Checklist 570v, 1812331505 Hospital Stay Planner 115v, 4570295105 Discharge Checklist 123v."
    }
   ]
+ },
+ {
+  "date": "2026-11-25",
+  "listing_id": 4625267986,
+  "title": "RMD Calculator Spreadsheet, Required Minimum Distribution Tracker, IRA 401k Withdrawal Planner, QCD Log, Retirement Excel Google Sheets",
+  "price": 14.99,
+  "niche": "senior money paperwork - required minimum distributions (bridges Medicare season into Dec 31 RMD deadline + tax season)",
+  "keyword": "rmd calculator spreadsheet",
+  "total_results": 54,
+  "best_competitor_views": 280,
+  "competitors_note": "rmd calculator spreadsheet (54): 4481343045 RMD Calculator 2026 196v/1fav $19.99 (61624254, Excel+PDF guides, multi-account, tables); 4488235913 Roth/IRMAA/RMD Google Sheets 280v/3fav $17.99 (65506485); 4552844349 Roth+RMD 99v/1fav $14.99 (65226199); 4545613455 Roth ladder+RMD 94v/1fav $25.72 (65064932); 4518137318 retirement bundle 517v/16fav $29.99. Median of viewed > $14.99 cap -> $14.99. Ours adds: IRA/403(b)/separate-plan grouping, Roth exclusion, still-working + joint-life + inherited overrides, withdrawal & QCD log with withholding, dashboard w/ deadline countdown, 15-yr projection, 1099-R match tab, year-end checklist, BLANK+SAMPLE, 9-page large-print PDF Letter+A4.",
+  "facts_verified": "2026-11-25 irs.gov RMD topic page + RMD FAQs + comparison chart: start age 73, first RMD by Apr 1 next year / later Dec 31, 25% excise (10% if corrected within 2 yrs, Form 5329, waiver), IRA aggregation, 403(b) aggregation, 401k/457b separate, still-working exception (not 5% owners, not IRAs), no RMD for Roth IRA / designated Roth while owner alive, joint table if spouse sole beneficiary >10 yrs younger. Uniform Lifetime Table ages 72-120+ from eCFR 26 CFR 1.401(a)(9)-9(c). Pub 590-B (2025): QCD age 70 1/2, counts toward RMD, max $108,000 (2025) - product only cites it as an example, limit is a user input. Age 75 for later birth years NOT verified on irs.gov -> start age is an editable input (default 73).",
+  "keywords_researched": {
+   "plan g vs plan n": 0,
+   "medicare supplement comparison": 3,
+   "social security calculator spreadsheet": 136,
+   "rmd calculator spreadsheet": 54,
+   "retirement healthcare cost calculator": 3,
+   "required minimum distribution": 10,
+   "medicare part b penalty": 9,
+   "medicare summary notice tracker": 1,
+   "when to claim social security": 27,
+   "medicare advantage comparison spreadsheet": 16,
+   "inherited ira": 9,
+   "qualified charitable distribution": 1
+  },
+  "keyword_note": "'social security calculator spreadsheet' (136; 66390898 868v $149, 61624254 517v/16fav $29.99, 67424888 57v, 61624254 52v) also qualifies - candidate sibling for Dec/Jan. 'when to claim social security' (27) has 65968389 80v/64v/61v + 68236734 28v. Medicare comparison keywords already covered by our 4614670613 (89v, best performer).",
+  "taxonomy_id": 12476,
+  "images": 9,
+  "files": "1 ZIP (BLANK+SAMPLE xlsx 9 tabs, Printables Letter+A4 9p, START HERE pdf)",
+  "gumroad_url": "https://korichii.gumroad.com/l/zzdpkj",
+  "feedback_views": {
+   "4624466465": [
+    0,
+    0
+   ],
+   "4623696408": [
+    0,
+    0
+   ],
+   "4622330604": [
+    0,
+    0
+   ],
+   "4621601378": [
+    0,
+    0
+   ],
+   "4620833226": [
+    0,
+    0
+   ],
+   "4620031296": [
+    0,
+    0
+   ],
+   "4619199037": [
+    0,
+    0
+   ],
+   "4618395895": [
+    0,
+    0
+   ],
+   "4617019046": [
+    2,
+    0
+   ],
+   "4616259410": [
+    1,
+    0
+   ],
+   "4615464135": [
+    18,
+    0
+   ],
+   "4614670613": [
+    89,
+    0
+   ],
+   "4613884452": [
+    1,
+    0
+   ],
+   "4606213566": [
+    20,
+    0
+   ],
+   "4607917182": [
+    32,
+    0
+   ]
+  },
+  "yesterday_listing_views": {
+   "4624466465": 0,
+   "favorites": 0
+  },
+  "feedback_note": "Medigap vs MA calculator 4614670613 keeps growing (89v), agent cheat sheet 18v. Listings 4618395895 (enrollment workbook), 4619199037 (Medicare in Spanish) at 0 views after 8-9 days -> don't repeat those keywords. Sales check: no new Etsy receipts (last sale 2026-10-31) and Gumroad sales [] - no message sent."
+ },
+ {
+  "date": "2026-11-25",
+  "platform": "gumroad",
+  "id": "FlldYPjaX7PdUP1tHGNb7Q==",
+  "short_url": "https://korichii.gumroad.com/l/zzdpkj",
+  "price": 16.99,
+  "title_hint": "RMD Calculator & Tracker"
+ },
+ {
+  "date": "2026-11-25",
+  "rewrites": [
+   {
+    "listing_id": 4600357831,
+    "keyword": "fridge medical information sheet",
+    "total_results": 69,
+    "related_keyword": "emergency information sheet (2111, flooded by babysitter sheets); medication list for elderly (624, mostly 0-view); vial of life form (2)",
+    "old_title": "Emergency Information Sheet Printable | Medication List and Weekly Medication Chart for Elderly Parent | Letter and A4",
+    "new_title": "Fridge Medical Information Sheet, Emergency Information Sheet for Seniors, Medication List Printable, Weekly Medication Chart, Letter A4",
+    "views_before": 0,
+    "favorites_before": 0,
+    "tags_changed": true,
+    "note": "Oldest same-niche listing with <5 views not rewritten. Competitors on 'fridge medical information sheet': 4591629348 9180v, 4500098651 333v/9fav, 4525149222 216v/6fav, 4524887765 166v, 4360727319 115v. Price unchanged ($3.99)."
+   }
+  ]
  }
 ]
