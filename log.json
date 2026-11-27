@@ -2107,5 +2107,91 @@
     "note": "Oldest same-niche listing with <5 views not rewritten (4600358707 caregiver binder skipped again: flooded). Viewed competitors on 'assisted living tour checklist': 4581901023 88v/2fav, 4549036899 59v, 4525268924 57v/2fav, 4500544699 40v, 4524697224 40v (different shops)."
    }
   ]
+ },
+ {
+  "date": "2026-11-27",
+  "listing_id": 4626694019,
+  "title": "Social Security Claiming Calculator, When to Claim 62 vs 67 vs 70, Break Even Age, Spousal and Survivor Benefits, Excel Google Sheets",
+  "price": 14.99,
+  "niche": "senior money paperwork - Social Security claiming (same buyer as Medicare/IRMAA/RMD; bridges to tax season)",
+  "keyword": "social security claiming calculator",
+  "total_results": 51,
+  "best_competitor_views": 816,
+  "competitors_note": "social security claiming calculator (51): 4355172122 NPV calc 816v/6fav $19.99 (61624254, 3 ages + NPV + video); 4491414758 Optimizer Google Sheets 217v/5fav $24.99 (65506485, 9 couple combos, IRMAA, taxation); 4525211724 HTML tool 126v $12.99 (29289144); 4545351309 9 yearly rows 81v/2fav $7.99 (66626973); 4505064710 80v $2.99, 4505066470 64v, 4504568217 61v (65968389); 4493546418 52v $5.95. Price: median of 100+ view competitors ($12.99/$19.99/$24.99) capped at $14.99 (50+ view median incl. $2.99-$5.95 simple calcs would be $7.99). Also researched: social security calculator spreadsheet (149, 915v/519v bundles), medicare cost calculator (28, qualifies but overlaps our Medigap/Part D/plan comparison), medicare binder printable (91, viewed ones are caregiver binders), medicare agent commission tracker (13, only 1 competitor 50+v), medicare annual review checklist (7, max 16v), working past 65 medicare (3), medicare late enrollment penalty (3), retirement healthcare cost calculator (3), early retirement health insurance (13, max 75v), medicare agent business plan (1), medicare supplement comparison chart (0).",
+  "product_note": "Ours adds vs competitors: all 97 claiming months 62y0m-70y0m (not 3 or 9 ages) for both spouses, break-even matrix every pair, couple planner all 81 combos with spousal reduction (25/36, 5/12) + survivor RIB-LIM 82.5%, breakdown of any pair, tax check (IRS base amounts editable), earnings record check, deposit after Part B/withholding, optional what-if cut + PV, BLANK+SAMPLE, 8-page large-print PDF Letter+A4, START HERE. Rules verified 2026-11-27 on ssa.gov (early_late, handbook 724, agereduction), CRS IF12091, IRS tax tip. 2673 formulas, 0 errors (LibreOffice recalc); sample checked by hand.",
+  "images": 9,
+  "files": "Social_Security_Claiming_Calculator.zip (250550 bytes)",
+  "taxonomy_id": 12476,
+  "gumroad_url": "https://korichii.gumroad.com/l/fxzapi",
+  "yesterday": {
+   "4626022725": {
+    "views": 0,
+    "favorites": 0
+   }
+  },
+  "newest5_views": {
+   "4626022725": 0,
+   "4625267986": 2,
+   "4624466465": 1,
+   "4623696408": 0,
+   "4622330604": 1
+  },
+  "feedback_views": {
+   "4614670613": [
+    103,
+    0
+   ],
+   "4615464135": [
+    21,
+    0
+   ],
+   "4606213566": [
+    22,
+    0
+   ],
+   "4607917182": [
+    32,
+    0
+   ],
+   "4617019046": [
+    2,
+    0
+   ],
+   "4620833226": [
+    0,
+    0
+   ],
+   "4621601378": [
+    0,
+    0
+   ]
+  },
+  "feedback_note": "Medigap vs MA calculator keeps growing (89->103). Newest listings still near 0 after 1-4 days. 7-day zero-view lines to avoid repeating: Medicare appeal kit (4620833226, 8 days, 0v), hospital bill negotiation (4621601378, 7 days, 0v), client intake form (4620031296), Spanish Medicare workbook (4619199037), enrollment workbook (4618395895).",
+  "sales_check": "no new sales in last 24h (Etsy receipts: only 2026-10-31 order; Gumroad sales: none)"
+ },
+ {
+  "date": "2026-11-27",
+  "platform": "gumroad",
+  "id": "_dBQ35wN_2kcgmq4SvhKcQ==",
+  "short_url": "https://korichii.gumroad.com/l/fxzapi",
+  "price": 16.99,
+  "title_hint": "Social Security Claiming Calculator"
+ },
+ {
+  "date": "2026-11-27",
+  "rewrites": [
+   {
+    "listing_id": 4600801808,
+    "keyword": "caregiver timesheet",
+    "total_results": 207,
+    "related_keyword": "caregiver pay tracker (68)",
+    "old_title": "Caregiver Timesheet and Pay Tracker Spreadsheet, Home Care Hours Log for Excel & Google Sheets, Mileage, Overtime + Printables",
+    "new_title": "Caregiver Timesheet Spreadsheet, Home Health Care Time Sheet, Caregiver Hours and Pay Tracker, Paid Family Caregiver Log, Mileage, Excel",
+    "views_before": 0,
+    "favorites_before": 0,
+    "tags_changed": true,
+    "note": "Oldest same-niche (aging parent/senior paperwork) listing with <5 views not rewritten (4600358707 caregiver binder skipped again: flooded). Viewed competitors on 'caregiver timesheet': 1272957324 5903v/80fav, 1782412956 4909v/24fav, 1685650310 3221v, 1731300067 2959v/41fav, 4295981079 2173v, 1545403430 307v (different shops); phrases 'Home Health Care Time Sheet', 'Caregiver Hours', 'Home Care Shift', 'Paid Family Caregiver'. Replaced generic tags (timesheet template, hours tracker, google sheets, excel template, aging parent, elder care, caregiver planner, shift log). Price unchanged ($6.99)."
+   }
+  ]
  }
 ]
